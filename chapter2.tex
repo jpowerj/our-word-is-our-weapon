@@ -1,0 +1,113 @@
+
+% Tell compiler where to look for figs
+\graphicspath{{./ch2_figs/}{./ch2/}}
+
+%\title{The Geometry of Political Discourse\\\vspace{2mm}\large{Mapping 19th Century Capitalist Critique Using Tools from Natural Language Processing}}
+
+%\author{Jeff Jacobs\\\texttt{jpj2122@columbia.edu}}
+
+\ifthenelse{\equal{\compileAsChapter}{true}}{\setcounter{chapter}{1}\Chapter{The Geometry of Political Discourse}{The Translation and Diffusion of Marxism from the Communist Manifesto to the Cold War}}{\title{The Production and Diffusion of Marxism}\author{Jeff Jacobs\thanks{PhD Candidate, Political Science, Columbia University.}\\\texttt{jpj2122@columbia.edu}}\maketitle}
+
+\input{ch2_abstract.tex}
+
+%\tableofcontents
+
+%\doublespacing
+
+% Double spacing after the abstract if standalone paper
+\ifthenelse{\equal{\compileAsChapter}{false}}{\doublespacing}{}
+
+\section{Introduction}
+
+\subsection{Overview\label{intro:overview}}
+
+\input{ch2/intro00_overview.tex}
+
+\subsection{The Historiography of Political Thought\label{intro:hpt}}
+
+\input{intro01_cambridge.tex}
+
+\subsection{The Formation of Marx's Political and Economic Thought\label{intro:marx}}
+
+\input{intro02_marx.tex}
+
+\subsection{Computational Methods: Contextual Sentence Embeddings\label{intro:methods}}
+
+%%%%% PART I %%%%%
+
+\input{intro03_methods.tex}
+
+\section{Part I: Influences on Marx}
+
+\subsection{Background: Sources of Influence on Marx's Thought\label{sec:influence}}
+
+%\input{infl00_intro.tex}
+\input{infl00_background.tex}
+
+\subsection{Methods\label{sec:methods}}
+
+\input{infl01_methods.tex}
+
+\subsection{Results\label{sec:results}}
+
+\input{infl02_results.tex}
+
+%%%%% PART II %%%%%
+
+\section{Part II: Marx's Influence}
+
+\subsection{Introduction}
+
+\input{camb00_intro.tex}
+
+\subsection{Marx's Interlocutors}
+
+\input{camb01_interloc.tex}
+
+\subsection{Methods}
+
+\input{camb02_methods.tex}
+
+\subsection{Results: Marx and the Socialist Movement}
+
+\input{camb03_results.tex}
+
+\subsection{Results: Marx vs. Particular Authors\label{sec:marxvauthors}}
+
+\input{camb04_authresults.tex}
+
+%%%
+% CONCLUSION
+%%%
+
+\section{Conclusion\label{sec:conclusion}}
+
+\input{conclusion.tex}
+
+%%%
+% BIBLIOGRAPHY
+%%%
+
+%\singlespacing
+
+% Bib here if standalone paper
+\ifthenelse{\equal{\compileAsChapter}{false}}{\input{ch2_print_bib.tex}}{}
+%
+%\input{ch2_nocites.tex}
+
+%%%
+% APPENDICES
+%%%
+
+%\appendix
+
+% https://tex.stackexchange.com/questions/120716/appendix-after-each-chapter
+\ifthenelse{\equal{\compileAsChapter}{true}}{
+\begin{subappendices}
+\input{ch2/ch2_appendices.tex}
+\end{subappendices}
+}{
+\appendix
+\input{ch2/ch2_appendices.tex}
+}
+

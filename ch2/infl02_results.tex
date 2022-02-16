@@ -1,0 +1,97 @@
+\subsubsection{German Philosophy: Calibration Tests}
+
+To help illustrate what exactly these methods are picking up when comparing two texts, we start by showing the range of similarity scores between pairs of Hegel's own texts (Table \ref{tab:hegelself}).
+
+%Then, branching outwards, we compare a work of Hegel's with philosophical works from
+%\begin{itemize}
+%    \item[(a)] Two ``center'' Hegelians: Karl Ludwig Michelet and Karl Rosenkranz
+%    \item[(b)] A ``Right Hegelian'', Johann Philipp Gabler, and
+%    \item[(c)] two ``Left Hegelians'', Bruno Bauer and Ludwig Feuerbach (chosen to contrast someone Marx had a personal relationship with -- Bauer -- against someone with whom he only had a scholarly correpondence -- Feuerbach.)
+%\end{itemize}
+
+The results of the similarity tests among Hegel's own texts are given in Table \ref{tab:hegelself}. 
+
+%and the results of the comparisons of Hegel with the subsequent Hegelians are given in Table \ref{tab:hegelians}.
+
+\input{Calib0_Hegel_de_sims.tex}
+
+
+
+\subsubsection{German Philosophy: Results}
+
+A plot with Marx's semantic similarity to Hegel (by work, over time) can be found in Figure \ref{fig:hegelsims}, with the corresponding numeric similarity scores presented in Table \ref{tab:hegelsims}.
+
+\input{Emb0_Hegel_de_sims.tex}
+
+\begin{figure}[ht!]
+    \includegraphics[width=\textwidth]{Emb0_Hegel_de_ts.png}
+    \caption{Marx's similarity to Hegel, over time}
+    \label{fig:hegelsims}
+\end{figure}
+
+Interestingly, given that many scholars locate Marx's departure from Hegel in his critical engagement with the latter's \textit{Philosophie des Rechts} in 1843, in terms of semantic content Marx's engagement with Hegelian \textit{themes} actually increases fairly dramatically after this time. This makes sense, however, if we consider the period roughly from 1843-1846 as a period wherein Marx aimed to distance himself from the Young Hegelians precisely by attacking their Hegel-oriented doctrines in the \textit{Holy Family} as well as the \textit{German Ideology}, and then the period from 1847 onward as his transition into his final economist phase. In fact, from what I can tell, the opening pages of the 1847 \textit{Misère de la Philosophie} are the first in which Marx explicitly identifies himself as an economist:
+
+\begin{quote}
+M. Proudhon has the misfortune to be uniquely misunderstood in Europe. In France he has the right to be a bad economist, since he passes for a good German philosopher. In Germany, he has the right to be a bad philosopher, because he passes as a prominent French economist. Being ourselves both German and economist, we have wished to protest against this dual mistake.\footnote{In Marx's original French: ``M. Proudhon a le malheur d'être singulièrement meconnu en Europe. En France, il a le droit d'être mauvais économiste, parce qu'il passe pour être bon philosophe allemand. En Allemagne, il a le droit d'être mauvais philosophe, parce qu'il passe pour être économiste français des plus forts. Nous, en notre qualité d'Allemand et d'économiste a la fois, nous avons voulu protester contre cette double erreur'' (\oldmega{I}{6}{19}; \textit{Misère} will also appear in its original French in the not-yet-published \mega{I}{6}).} (\mecw{6}{109}, as quoted in \cite{tribe_economy_2015})
+\end{quote}
+
+
+% Right after the German results
+
+\subsubsection{French Republicanism: Calibration Tests}
+
+To again establish our expectations with respect to what the similarity scores are capturing, we first show the similarity results for the set of Proudhon's texts included in our corpus.
+
+%well-established relationships of direct influence:
+%\begin{itemize}
+%    \item[(a)] Saint-Simon vs. the ``Saint-Simonians''
+%    \item[(b)] Babeuf vs. the ``Babeuvists'', and most importantly
+%    \item[(c)] Proudhon vs. the ``Proudhonists''.
+%\end{itemize}
+
+These pairwise similarity scores between Proudhon's works are given in Table \ref{tab:proudhonself}.
+
+\input{Calib1_Proudhon_de_sims.tex}
+
+
+
+\subsubsection{French Republicanism: Results}
+
+Similarities between Marx's works and those of Proudhon are given in Figure \ref{fig:proudhonsims}, with the corresponding figures given in Table \ref{tab:proudhonsims}.
+
+\begin{figure}
+    \includegraphics[width=\textwidth]{Emb1_Proudhon_de_ts.png}
+    \caption{Marx's similarity to Proudhon, over time}
+    \label{fig:proudhonsims}
+\end{figure}
+
+\input{Emb1_Proudhon_de_sims.tex}
+
+
+\subsubsection{British Political Economy: Calibration Tests}
+
+As we did for German philosophy and French republican socialism, here we first examine the range of similarity measures our methods produce for a pair of books with an ``established'' relationship of influence: Adam Smith's \textit{Wealth of Nations} (1776) and David Ricardo's \textit{On the Principles of Political Economy and Taxation} (1817), given that the latter is in large part written as a response to Smith's groundbreaking 1776 work\footnote{Unlike in the previous two sections, here we opt not to compare Smith's \textit{Wealth of Nations} with e.g. his own earlier \textit{Theory of Moral Sentiments}, on the grounds that our aim is not to capture ``Smith-ness'' writ large, but rather ``political-economy-ness'' in the tradition established by \textit{Wealth of Nations}, rather than the less influential and more political-philosophy-oriented \textit{Theory of Moral Sentiments}. In Appendix \ref{app:robustness}, for transparency, we provide a version of Table \ref{tab:peself} which incorporates the \textit{Theory of Moral Sentiments} as well.}.
+
+%set of ``established'' relationships of influence:
+%\begin{itemize}
+%    \item[(a)] Adam Ferguson vs. Adam Smith
+%    \item[(b)] Adam Smith vs. David Ricardo, and
+%    \item[(c)] John Stuart Mill's \textit{Principles} vs. David Ricardo's \textit{Political Economy}, of which the former work was explicitly written by Mill with the goal of ``formalizing'' the insights and contributions of the latter work.
+%\end{itemize}
+
+The results of these calibration tests are given in Table \ref{tab:peself}.
+
+\input{Calib2_PolEcon_de_sims.tex}
+
+
+\subsubsection{British Political Economy: Results}
+
+As can be seen in Figure \ref{fig:pesims} and Table \ref{tab:pesims}, Marx's ``Smith-ness'' increases significantly -- by over 10\% -- from his 1841 dissertation to his 1844 Manuscripts, then increases significantly but less rapidly in \textit{Poverty of Philosophy} and reaches a peak in 1858-1867 with the \grundrisse{}, the \kritik{}, the three volumes of \mehrwert{}, and \kapital{1}, with the notable exception of the extremely non-political-economic \textit{Herr Vogt}.
+
+\input{Emb2_PolEcon_de_sims.tex}
+
+\begin{figure}
+    \includegraphics[width=\textwidth]{Emb2_PolEcon_de_ts.png}
+    \caption{Marx's similarity to works of Political Economy, over time}
+    \label{fig:pesims}
+\end{figure}

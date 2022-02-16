@@ -1,0 +1,151 @@
+%% Creator: Inkscape 1.1.2 (0a00cf5339, 2022-02-04, custom), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'pe_centroid_svg-tex.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{582.75bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.46846847)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{pe_centroid_svg-tex.pdf}}%
+    \put(0.06241956,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}-1.0\end{tabular}}}}%
+    \put(0.1042471,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-0.9\end{tabular}}}}%
+    \put(0.14607465,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-0.8\end{tabular}}}}%
+    \put(0.18790219,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-0.7\end{tabular}}}}%
+    \put(0.22972973,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-0.6\end{tabular}}}}%
+    \put(0.27155727,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-0.5\end{tabular}}}}%
+    \put(0.31338481,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-0.4\end{tabular}}}}%
+    \put(0.35521236,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-0.3\end{tabular}}}}%
+    \put(0.3970399,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-0.2\end{tabular}}}}%
+    \put(0.43886744,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-0.1\end{tabular}}}}%
+    \put(0.48069498,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.0\end{tabular}}}}%
+    \put(0.52252252,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.1\end{tabular}}}}%
+    \put(0.56435006,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.2\end{tabular}}}}%
+    \put(0.60617761,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.3\end{tabular}}}}%
+    \put(0.64800515,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.4\end{tabular}}}}%
+    \put(0.68983269,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.5\end{tabular}}}}%
+    \put(0.73166023,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.6\end{tabular}}}}%
+    \put(0.77348777,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.7\end{tabular}}}}%
+    \put(0.81531532,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.8\end{tabular}}}}%
+    \put(0.85714286,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.9\end{tabular}}}}%
+    \put(0.8989704,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}1.0\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{pe_centroid_svg-tex.pdf}}%
+    \put(0.48069498,0.00836551){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{First Principal Component}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{pe_centroid_svg-tex.pdf}}%
+    \put(0.05341055,0.04311454){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}-1.0\end{tabular}}}}%
+    \put(0.05341055,0.08601459){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}-0.8\end{tabular}}}}%
+    \put(0.05341055,0.12891463){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}-0.6\end{tabular}}}}%
+    \put(0.05341055,0.17181467){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}-0.4\end{tabular}}}}%
+    \put(0.05341055,0.21471471){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}-0.2\end{tabular}}}}%
+    \put(0.05341055,0.25761476){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0.0\end{tabular}}}}%
+    \put(0.05341055,0.3005148){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0.2\end{tabular}}}}%
+    \put(0.05341055,0.34341484){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0.4\end{tabular}}}}%
+    \put(0.05341055,0.38631489){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0.6\end{tabular}}}}%
+    \put(0.05341055,0.42921493){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0.8\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{pe_centroid_svg-tex.pdf}}%
+    \put(0.01866152,0.24002574){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Second Principal Component}\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{pe_centroid_svg-tex.pdf}}%
+    \put(0.68797027,0.13709787){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}gold\end{tabular}}}}%
+    \put(0.14137628,0.35386138){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}labor\end{tabular}}}}%
+    \put(0.37413105,0.23865928){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}land\end{tabular}}}}%
+    \put(0.09260431,0.17893243){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}capital\end{tabular}}}}%
+    \put(0.83011581,0.36384541){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}price\end{tabular}}}}%
+    \put(0.39267264,0.26993579){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}trade\end{tabular}}}}%
+    \put(0.66538488,0.24709197){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}value\end{tabular}}}}%
+    \put(0.50611299,0.12196561){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}england\end{tabular}}}}%
+    \put(0.50566512,0.20998851){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}surplus\end{tabular}}}}%
+    \put(0.40775073,0.23007752){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}profit\end{tabular}}}}%
+    \put(0.85866485,0.14773565){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}coins\end{tabular}}}}%
+    \put(0.11518202,0.30832864){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}worker\end{tabular}}}}%
+    \put(0.36195797,0.20738066){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}nation\end{tabular}}}}%
+    \put(0.54827783,0.10466684){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}amount\end{tabular}}}}%
+    \put(0.21191086,0.20810772){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}income\end{tabular}}}}%
+    \put(0.48555896,0.14401546){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}pay\end{tabular}}}}%
+    \put(0.64521284,0.06032224){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}bank\end{tabular}}}}%
+    \put(0.21155233,0.28613465){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}ground\end{tabular}}}}%
+    \put(0.32877024,0.22499236){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}portion\end{tabular}}}}%
+    \put(0.61243435,0.29383735){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}high\end{tabular}}}}%
+    \put(0.25583225,0.30573968){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}wealth\end{tabular}}}}%
+    \put(0.21660101,0.3789217){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}production\end{tabular}}}}%
+    \put(0.76499745,0.41619066){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}quantity\end{tabular}}}}%
+    \put(0.49388576,0.23390663){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}lande\end{tabular}}}}%
+    \put(0.68797027,0.12680186){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{geld}\end{tabular}}}}%
+    \put(0.14137628,0.34356537){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{arbeit}\end{tabular}}}}%
+    \put(0.37413105,0.22836327){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{land}\end{tabular}}}}%
+    \put(0.09260431,0.16863642){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{kapital}\end{tabular}}}}%
+    \put(0.83011581,0.35354939){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{preis}\end{tabular}}}}%
+    \put(0.39267264,0.25963978){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{handel}\end{tabular}}}}%
+    \put(0.66538488,0.23679596){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{wert}\end{tabular}}}}%
+    \put(0.50611299,0.1116696){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{england}\end{tabular}}}}%
+    \put(0.50566512,0.1996925){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{mehr}\end{tabular}}}}%
+    \put(0.40775073,0.21978151){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{gewinn}\end{tabular}}}}%
+    \put(0.85866485,0.13743963){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{munzen}\end{tabular}}}}%
+    \put(0.11518202,0.29803263){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{arbeiter}\end{tabular}}}}%
+    \put(0.36195797,0.19708465){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{nation}\end{tabular}}}}%
+    \put(0.54827783,0.09437083){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{betrag}\end{tabular}}}}%
+    \put(0.21191086,0.19781171){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{einkommen}\end{tabular}}}}%
+    \put(0.48555896,0.13371945){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{bezahlen}\end{tabular}}}}%
+    \put(0.64521284,0.05002623){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{bank}\end{tabular}}}}%
+    \put(0.21155233,0.27583864){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{boden}\end{tabular}}}}%
+    \put(0.32877024,0.21469635){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{teil}\end{tabular}}}}%
+    \put(0.61243435,0.28354134){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{hoch}\end{tabular}}}}%
+    \put(0.25583225,0.29544367){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{reichtum}\end{tabular}}}}%
+    \put(0.21660101,0.36862569){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{production}\end{tabular}}}}%
+    \put(0.76499745,0.40589465){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{quantitat}\end{tabular}}}}%
+    \put(0.49388576,0.22361062){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{lande}\end{tabular}}}}%
+    \put(0.44144144,0.25439725){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}PolEcon*\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{pe_centroid_svg-tex.pdf}}%
+    \put(0.94208494,0.4015444){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Word\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{pe_centroid_svg-tex.pdf}}%
+    \put(0.94208494,0.38481338){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Centroid\end{tabular}}}}%
+    \put(0.92149292,0.42213642){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Type}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{pe_centroid_svg-tex.pdf}}%
+    \put(0.48005148,0.44916345){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{PCA Plot of Political Economy Centroid}\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

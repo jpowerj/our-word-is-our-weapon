@@ -1,0 +1,99 @@
+\contentsline {chapter}{Acknowledgments}{viii}{section*.4}%
+\contentsline {chapter}{Dedication}{ix}{section*.5}%
+\contentsline {chapter}{Introduction}{1}{section*.6}%
+\contentsline {chapter}{\numberline {1}``Simultaneous and Systematic Abolition''?: {\itshape Cahiers de Doléances}}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduction}{6}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Methods}{8}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Topic Modeling}{9}{subsection.1.2.1}%
+\contentsline {section}{\numberline {1.3}France 1789: The Birth of Ideology}{11}{section.1.3}%
+\contentsline {section}{\numberline {1.4}The \textit {Cahiers}}{13}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Competing Interpretations of the \textit {Cahiers}}{15}{subsection.1.4.1}%
+\contentsline {section}{\numberline {1.5}Conclusion}{22}{section.1.5}%
+\contentsline {chapter}{Appendices}{23}{chapter*.7}%
+\contentsline {section}{\numberline {1.A}Probabilistic Graphical Models and Topic Models}{23}{section.a.1.A}%
+\contentsline {chapter}{\numberline {2}The Geometry of Political Discourse: {\itshape The Translation and Diffusion of Marxism from the Communist Manifesto to the Cold War}}{26}{appendix.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{27}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Overview}{27}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}The Historiography of Political Thought}{28}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}The Formation of Marx's Political and Economic Thought}{30}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Computational Methods: Contextual Sentence Embeddings}{33}{subsection.2.1.4}%
+\contentsline {section}{\numberline {2.2}Part I: Influences on Marx}{37}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Background: Sources of Influence on Marx's Thought}{37}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Methods}{37}{subsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2.1}Stylistic Similarity: Computational Stylometrics}{38}{subsubsection.2.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2.2}Semantic Trajectory: Contextual Embeddings via Neural Transformers}{38}{subsubsection.2.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Results}{38}{subsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.3.1}German Philosophy: Calibration Tests}{38}{subsubsection.2.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.2.3.2}German Philosophy: Results}{38}{subsubsection.2.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.2.3.3}French Republicanism: Calibration Tests}{41}{subsubsection.2.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.2.3.4}French Republicanism: Results}{41}{subsubsection.2.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.2.3.5}British Political Economy: Calibration Tests}{41}{subsubsection.2.2.3.5}%
+\contentsline {subsubsection}{\numberline {2.2.3.6}British Political Economy: Results}{43}{subsubsection.2.2.3.6}%
+\contentsline {section}{\numberline {2.3}Part II: Marx's Influence}{45}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Introduction}{45}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Marx's Interlocutors}{48}{subsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.2.1}The Young Hegelians, 1843--1845: Bruno Bauer and Max Stirner}{48}{subsubsection.2.3.2.1}%
+\contentsline {subsubsection}{\numberline {2.3.2.2}``State Socialism'' I, 1845--1849: Louis Blanc}{48}{subsubsection.2.3.2.2}%
+\contentsline {subsubsection}{\numberline {2.3.2.3}Anarchism I, 1846--1849: Pierre-Joseph Proudhon}{49}{subsubsection.2.3.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.2.4}Challengers to the Throne I, 1859--1860: Karl Vogt}{49}{subsubsection.2.3.2.4}%
+\contentsline {subsubsection}{\numberline {2.3.2.5}``State Socialism'' II, 1864--1883: Ferdinand Lassalle}{51}{subsubsection.2.3.2.5}%
+\contentsline {subsubsection}{\numberline {2.3.2.6}Anarchism II, 1872--1883: Mikhail Bakunin}{51}{subsubsection.2.3.2.6}%
+\contentsline {subsubsection}{\numberline {2.3.2.7}Challengers to the Throne II, 1883--1884: Eugen Dühring}{53}{subsubsection.2.3.2.7}%
+\contentsline {subsection}{\numberline {2.3.3}Methods}{54}{subsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.3.1}Author-Specific Embedding Spaces}{54}{subsubsection.2.3.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.3.2}Discursive Fields as Embedding Clusters}{55}{subsubsection.2.3.3.2}%
+\contentsline {subsection}{\numberline {2.3.4}Results: Marx and the Socialist Movement}{56}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Results: Marx vs. Particular Authors}{57}{subsection.2.3.5}%
+\contentsline {subsubsection}{\numberline {2.3.5.1}Marx vs. Proudhon}{62}{subsubsection.2.3.5.1}%
+\contentsline {subsubsection}{\numberline {2.3.5.2}Marx vs. Lassalle}{64}{subsubsection.2.3.5.2}%
+\contentsline {section}{\numberline {2.4}Conclusion}{65}{section.2.4}%
+\contentsline {chapter}{Appendices}{69}{appendix*.8}%
+\contentsline {section}{\numberline {2.A}Corpus Construction}{69}{section.b.2.A}%
+\contentsline {subsection}{\numberline {2.A.1}Early Marx}{69}{subsection.b.2.A.1}%
+\contentsline {subsection}{\numberline {2.A.2}Late Marx}{69}{subsection.b.2.A.2}%
+\contentsline {subsection}{\numberline {2.A.3}Early Socialist Texts}{69}{subsection.b.2.A.3}%
+\contentsline {subsection}{\numberline {2.A.4}Late Socialist Texts}{70}{subsection.b.2.A.4}%
+\contentsline {subsection}{\numberline {2.A.5}Hegelian Texts}{71}{subsection.b.2.A.5}%
+\contentsline {subsection}{\numberline {2.A.6}Political-Economic Texts}{71}{subsection.b.2.A.6}%
+\contentsline {subsection}{\numberline {2.A.7}Classical Literature}{72}{subsection.b.2.A.7}%
+\contentsline {subsection}{\numberline {2.A.8}Contemporary Literature}{73}{subsection.b.2.A.8}%
+\contentsline {subsection}{\numberline {2.A.9}Classical Philosophy}{73}{subsection.b.2.A.9}%
+\contentsline {subsection}{\numberline {2.A.10}Contemporary Philosophy}{74}{subsection.b.2.A.10}%
+\contentsline {subsection}{\numberline {2.A.11}General History}{74}{subsection.b.2.A.11}%
+\contentsline {subsection}{\numberline {2.A.12}Natural Sciences}{74}{subsection.b.2.A.12}%
+\contentsline {subsection}{\numberline {2.A.13}Miscellaneous Texts}{75}{subsection.b.2.A.13}%
+\contentsline {section}{\numberline {2.B}Discursive Subspace Construction}{75}{section.b.2.B}%
+\contentsline {subsection}{\numberline {2.B.1}Two-Class Comparison via Relative Frequencies}{75}{subsection.b.2.B.1}%
+\contentsline {subsection}{\numberline {2.B.2}Two-Class Comparison via Machine Learning}{75}{subsection.b.2.B.2}%
+\contentsline {subsection}{\numberline {2.B.3}Multi-Class Comparison via cTF-IDF}{75}{subsection.b.2.B.3}%
+\contentsline {section}{\numberline {2.C}Robustness Checks}{75}{section.b.2.C}%
+\contentsline {subsection}{\numberline {2.C.1}Document-Level Embeddings via Longformer}{75}{subsection.b.2.C.1}%
+\contentsline {section}{\numberline {2.D}Datasets}{75}{section.b.2.D}%
+\contentsline {subsection}{\numberline {2.D.1}Data Summary: Marx's Reading}{75}{subsection.b.2.D.1}%
+\contentsline {subsection}{\numberline {2.D.2}Data Summary: Marx's Writing}{81}{subsection.b.2.D.2}%
+\contentsline {subsubsection}{\numberline {2.D.2.1}The Marx-Engels Digital Register}{81}{subsubsection.b.2.D.2.1}%
+\contentsline {subsection}{\numberline {2.D.3}Data Summary: Marx's Correspondence}{88}{subsection.b.2.D.3}%
+\contentsline {subsection}{\numberline {2.D.4}Data Summary: Marx's References}{88}{subsection.b.2.D.4}%
+\contentsline {subsection}{\numberline {2.D.5}Data Summary: Marx-Engels Digital Glossary}{90}{subsection.b.2.D.5}%
+\contentsline {subsection}{\numberline {2.D.6}Supplemental Datasets}{90}{subsection.b.2.D.6}%
+\contentsline {subsubsection}{\numberline {2.D.6.1}Proudhon's Collected Works}{90}{subsubsection.b.2.D.6.1}%
+\contentsline {subsubsection}{\numberline {2.D.6.2}Proudhon's \textit {Carnets}}{92}{subsubsection.b.2.D.6.2}%
+\contentsline {subsubsection}{\numberline {2.D.6.3}Collections of Lassalle's Works}{95}{subsubsection.b.2.D.6.3}%
+\contentsline {paragraph}{\numberline {2.D.6.3.1}\textit {Gesammelte Reden und Schriften} (GRS)}{95}{paragraph.b.2.D.6.3.1}%
+\contentsline {paragraph}{\numberline {2.D.6.3.2}\textit {Nachgelassene Briefe und Schriften} (NBS)}{95}{paragraph.b.2.D.6.3.2}%
+\contentsline {paragraph}{\numberline {2.D.6.3.3}\textit {Reden und Schriften} (RS, 1893)}{96}{paragraph.b.2.D.6.3.3}%
+\contentsline {subsubsection}{\numberline {2.D.6.4}Andréas' Lassalle Bibliography}{96}{subsubsection.b.2.D.6.4}%
+\contentsline {paragraph}{\numberline {2.D.6.4.1}First 10}{96}{paragraph.b.2.D.6.4.1}%
+\contentsline {paragraph}{\numberline {2.D.6.4.2}Last 10}{99}{paragraph.b.2.D.6.4.2}%
+\contentsline {subsubsection}{\numberline {2.D.6.5}Nietzsche's Reading Records}{104}{subsubsection.b.2.D.6.5}%
+\contentsline {section}{\numberline {2.E}Table Footnotes}{107}{section.b.2.E}%
+\contentsline {subsection}{\numberline {2.E.1}Table \ref {tab:reading}}{107}{subsection.b.2.E.1}%
+\contentsline {chapter}{\numberline {3}Quantifying Cultural Diplomacy: {\itshape The Translation and Diffusion of Marxism from the Communist Manifesto to the Cold War}}{108}{appendix.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{108}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Methods}{110}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Data}{110}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Results}{110}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Discussion}{110}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Conclusion}{110}{section.3.6}%
+\contentsline {chapter}{Conclusion}{111}{section*.9}%
+\contentsline {chapter}{References}{113}{section*.9}%

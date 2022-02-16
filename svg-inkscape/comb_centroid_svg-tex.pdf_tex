@@ -1,0 +1,149 @@
+%% Creator: Inkscape 1.1.2 (0a00cf5339, 2022-02-04, custom), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'comb_centroid_svg-tex.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{578.25bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.46562905)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{comb_centroid_svg-tex.pdf}}%
+    \put(0.16086203,0.02788586){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.65\end{tabular}}}}%
+    \put(0.22792316,0.02788586){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.70\end{tabular}}}}%
+    \put(0.29498429,0.02788586){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.75\end{tabular}}}}%
+    \put(0.36204541,0.02788586){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.80\end{tabular}}}}%
+    \put(0.42910654,0.02788586){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.85\end{tabular}}}}%
+    \put(0.49616767,0.02788586){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.90\end{tabular}}}}%
+    \put(0.5632288,0.02788586){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.95\end{tabular}}}}%
+    \put(0.63028993,0.02788586){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1.00\end{tabular}}}}%
+    \put(0.69735105,0.02788586){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1.05\end{tabular}}}}%
+    \put(0.76441218,0.02788586){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1.10\end{tabular}}}}%
+    \put(0.0938009,0.02788586){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.60\end{tabular}}}}%
+    \put(0.83147331,0.02788586){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1.15\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{comb_centroid_svg-tex.pdf}}%
+    \put(0.4766537,0.00843061){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Hegelian*}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{comb_centroid_svg-tex.pdf}}%
+    \put(0.0460441,0.15046463){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0.8\end{tabular}}}}%
+    \put(0.0460441,0.26474631){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}1.0\end{tabular}}}}%
+    \put(0.0460441,0.09332379){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0.7\end{tabular}}}}%
+    \put(0.0460441,0.20760547){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0.9\end{tabular}}}}%
+    \put(0.0460441,0.32188716){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}1.1\end{tabular}}}}%
+    \put(0.0460441,0.379028){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}1.2\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{comb_centroid_svg-tex.pdf}}%
+    \put(0.01880674,0.24189364){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{PolEcon*}\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{comb_centroid_svg-tex.pdf}}%
+    \put(0.3568166,0.24447274){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}become\end{tabular}}}}%
+    \put(0.42579472,0.35388605){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}gold\end{tabular}}}}%
+    \put(0.36642107,0.36638484){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}labor\end{tabular}}}}%
+    \put(0.29948274,0.22897968){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}land\end{tabular}}}}%
+    \put(0.23083158,0.4090518){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}capital\end{tabular}}}}%
+    \put(0.27920755,0.3176903){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}price\end{tabular}}}}%
+    \put(0.19576141,0.22282156){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}trade\end{tabular}}}}%
+    \put(0.51801412,0.35541446){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}value\end{tabular}}}}%
+    \put(0.48207955,0.2530022){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}surplus\end{tabular}}}}%
+    \put(0.10240175,0.21576427){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}population\end{tabular}}}}%
+    \put(0.2978731,0.25342756){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}profit\end{tabular}}}}%
+    \put(0.37244439,0.34715659){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}rise\end{tabular}}}}%
+    \put(0.37931872,0.15813319){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}follow\end{tabular}}}}%
+    \put(0.23413526,0.27497768){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}to ask\end{tabular}}}}%
+    \put(0.31863963,0.33343307){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}worker\end{tabular}}}}%
+    \put(0.43880249,0.23259007){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}self\end{tabular}}}}%
+    \put(0.79230557,0.15101104){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}god\end{tabular}}}}%
+    \put(0.5561851,0.1085422){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}spirit\end{tabular}}}}%
+    \put(0.74148793,0.14306589){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}being\end{tabular}}}}%
+    \put(0.8041431,0.10899159){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}christ\end{tabular}}}}%
+    \put(0.60848195,0.08852678){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}jesus\end{tabular}}}}%
+    \put(0.85223043,0.16472837){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}awareness\end{tabular}}}}%
+    \put(0.56680253,0.20336601){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}free\end{tabular}}}}%
+    \put(0.52227474,0.14451762){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}to believe\end{tabular}}}}%
+    \put(0.30533801,0.19202517){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}against\end{tabular}}}}%
+    \put(0.69551635,0.16490941){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}religion\end{tabular}}}}%
+    \put(0.58244041,0.13323556){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}dear\end{tabular}}}}%
+    \put(0.67726424,0.13933331){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}concept\end{tabular}}}}%
+    \put(0.60993214,0.23818264){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}really\end{tabular}}}}%
+    \put(0.3568166,0.23150257){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{werden}\end{tabular}}}}%
+    \put(0.42579472,0.34091588){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{geld}\end{tabular}}}}%
+    \put(0.36642107,0.35341468){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{arbeit}\end{tabular}}}}%
+    \put(0.29948274,0.21600951){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{land}\end{tabular}}}}%
+    \put(0.23083158,0.39608163){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{kapital}\end{tabular}}}}%
+    \put(0.27920755,0.30472014){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{preis}\end{tabular}}}}%
+    \put(0.19576141,0.20985139){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{handel}\end{tabular}}}}%
+    \put(0.51801412,0.34244429){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{wert}\end{tabular}}}}%
+    \put(0.48207955,0.24003203){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{mehr}\end{tabular}}}}%
+    \put(0.10240175,0.2027941){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{bevolkerung}\end{tabular}}}}%
+    \put(0.2978731,0.24045739){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{gewinn}\end{tabular}}}}%
+    \put(0.37244439,0.33418642){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{steigen}\end{tabular}}}}%
+    \put(0.37931872,0.14516302){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{folgen}\end{tabular}}}}%
+    \put(0.23413526,0.26200751){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{nachfragen}\end{tabular}}}}%
+    \put(0.31863963,0.3204629){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{arbeiter}\end{tabular}}}}%
+    \put(0.43880249,0.2196199){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{selbst}\end{tabular}}}}%
+    \put(0.79230557,0.13804087){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{gott}\end{tabular}}}}%
+    \put(0.5561851,0.09557203){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{geist}\end{tabular}}}}%
+    \put(0.74148793,0.13009573){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{wesen}\end{tabular}}}}%
+    \put(0.8041431,0.09602142){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{christ}\end{tabular}}}}%
+    \put(0.60848195,0.07555661){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{jesus}\end{tabular}}}}%
+    \put(0.85223043,0.1517582){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{bewusstsein}\end{tabular}}}}%
+    \put(0.56680253,0.19039584){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{frei}\end{tabular}}}}%
+    \put(0.52227474,0.13154745){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{glauben}\end{tabular}}}}%
+    \put(0.30533801,0.179055){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{gegen}\end{tabular}}}}%
+    \put(0.69551635,0.15193924){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{religion}\end{tabular}}}}%
+    \put(0.58244041,0.12026539){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{lieb}\end{tabular}}}}%
+    \put(0.67726424,0.12636314){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{begriff}\end{tabular}}}}%
+    \put(0.60993214,0.22521247){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{wirklich}\end{tabular}}}}%
+    \put(0.30758113,0.26150377){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}PolEcon*\end{tabular}}}}%
+    \put(0.59073091,0.15589697){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Hegelian*\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{comb_centroid_svg-tex.pdf}}%
+    \put(0.94163424,0.40466926){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Word\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{comb_centroid_svg-tex.pdf}}%
+    \put(0.94163424,0.38780804){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Centroid\end{tabular}}}}%
+    \put(0.92088197,0.42542153){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Type}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{comb_centroid_svg-tex.pdf}}%
+    \put(0.47600519,0.4461738){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Hegelian* vs. PolEcon*}\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

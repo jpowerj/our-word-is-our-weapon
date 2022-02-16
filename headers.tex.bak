@@ -1,0 +1,168 @@
+\usepackage{amsmath} %for formula formatting
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage[T1]{fontenc} % improved font encoding
+\usepackage[utf8]{inputenc} % for better handling of non-ASCII characters
+
+% TabularX
+\usepackage{tabularx}
+
+% Three Part Table (for table footnotes...)
+\usepackage[para]{threeparttable}
+
+% GraphicX
+\usepackage{graphicx}
+
+\usepackage[letterpaper, left=1in, right=1in, top=1in, bottom=1in]{geometry}
+
+% For single and doublespacing
+\usepackage{setspace}
+
+%\usepackage{times}  %set Times New Roman as the font
+
+\usepackage[explicit]{titlesec}  %title control and formatting
+
+\usepackage[titles]{tocloft}  %table of contents control and formatting
+
+% BibLaTeX
+\usepackage[
+    backend=bibtex,
+    %sorting=none,
+    sorting=nyvt,
+    bibstyle=ieee,
+    natbib=true, url=false,
+    isbn=false,
+    doi=false,
+    eprint=false,
+    date=year
+]{biblatex}  %reference manager
+
+% Appendix
+\usepackage{appendix}
+% https://tex.stackexchange.com/questions/120716/appendix-after-each-chapter
+% Added 2022-01-21, so each chapter can have its own appendix -JJ
+\AtBeginEnvironment{subappendices}{%
+\chapter*{Appendix}
+\addcontentsline{toc}{chapter}{Appendices}
+\counterwithin{figure}{section}
+\counterwithin{table}{section}
+}
+
+%\usepackage{rotating}  %for rotated, landscape images
+\usepackage[normalem]{ulem}  %for underlined section titles
+\usepackage{textcomp} % for text symbols such as copyright etc. 
+\usepackage{indentfirst} % To indent the first line of every paragraph
+\usepackage{booktabs,array,arydshln} %for better table formatting. 
+%\usepackage{newtxtext} % font choice
+\usepackage{newtxmath} 
+\usepackage{lmodern} % font choice
+
+%%%%% For Cahiers chapter -JJ 2021-11-24
+\usepackage{epigraph}
+
+% TiKZ
+\usepackage{tikz}
+\usetikzlibrary{bayesnet}
+
+%%%%% For Marx chapter -JJ 2022-01-21
+\usepackage{footnote}
+% Allows sections below subsubsection (paragraphs)
+\usepackage{titlesec}
+\setcounter{secnumdepth}{4}
+\titleformat{\paragraph}
+{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titlespacing*{\paragraph}
+{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+\usepackage{xifthen}
+\usepackage{esvect}
+\DeclareUnicodeCharacter{2212}{-}
+\usepackage{svg}
+%\usepackage{csquotes}
+
+% Bibliography
+%Add your bibliography file here
+\bibliography{references}
+\DeclareBibliographyCategory{nondiss}
+\addtocategory{nondiss}{hohfeld_fundamental_1913}
+
+
+% prevent certain fields in references from printing in bibliography
+\AtEveryBibitem{\clearfield{issn}}
+\AtEveryBibitem{\clearlist{issn}}
+
+\AtEveryBibitem{\clearfield{language}}
+\AtEveryBibitem{\clearlist{language}}
+
+\AtEveryBibitem{\clearfield{doi}}
+\AtEveryBibitem{\clearlist{doi}}
+
+\AtEveryBibitem{\clearfield{url}}
+\AtEveryBibitem{\clearlist{url}}
+
+\AtEveryBibitem{%
+  \ifentrytype{online}
+    {}
+    {\clearfield{urlyear}\clearfield{urlmonth}\clearfield{urlday}}}
+    
+% JJ 2021-11-24:
+\AtEveryBibitem{
+  \clearfield{note}
+  \clearfield{pagetotal}
+  \clearfield{series}
+  \clearlist{language}
+}
+\renewcommand*{\nameyeardelim}{\space}
+\DeclareFieldFormat{pages}{#1}
+\renewbibmacro{in:}{}
+% This removes the comma in the citation style, so we get "Roberts 2016" instead of "Roberts, 2016"
+% https://tex.stackexchange.com/questions/134063/how-to-add-a-comma-between-author-and-year
+\renewcommand*{\nameyeardelim}{\space}
+
+%%%%% Custom commands for Marx chapter -JJ 2022-01-21
+\newcommand{\BERT}[0]{\texttt{BERT}}
+% Digital Chronicle
+\newcommand{\chron}[2]{\href{DC.#1.#2}{DC.#1.#2}}
+% For removing big chunks with one command
+\newcommand{\comment}[1]{}
+% Geldsystem notebook
+\newcommand{\geld}[0]{\textit{Geldsystem}}
+% Grundrisse
+\newcommand{\grundrisse}[0]{\textit{Grundrisse}}
+\newcommand{\jj}[1]{***[\textbf{#1}]***}
+\newcommand{\justoldmega}[0]{\textit{MEGA}¹}
+% Das Kapital
+\newcommand{\kapital}[1]{\textit{Kapital}, Vol. #1}
+% Kritik der Politischen Ökonomie
+\newcommand{\kritik}[0]{\textit{Kritik der Politischen Ökonomie}}
+% Lassalle Digital Register
+\newcommand{\lass}[1]{DR.L.#1}
+% Marx-Engels Collected Works (MECW)
+\newcommand{\mecw}[2]{\ifthenelse{\isempty{#2}}{\textit{MECW} Vol. #1}{\textit{MECW} Vol. #1, #2}}
+\newcommand{\MECW}[2]{\mecw{#1}{#2}}
+% MEGA2 (New MEGA)
+\newcommand{\mega}[3]{\ifthenelse{\isempty{#3}}{\textit{MEGA}² #1/#2}{\textit{MEGA}² #1/#2, #3}}
+\newcommand{\MEGA}[2]{\mega{#1}{#2}}
+% MEGA1 (Old MEGA)
+\newcommand{\oldmega}[3]{\ifthenelse{\isempty{#3}}{\textit{MEGA}¹ #1/#2}{\textit{MEGA}¹ #1/#2, #3}}
+% Marx-Engels Selected Works
+\newcommand{\mesw}[2]{\ifthenelse{\isempty{#2}{\textit{MESW} Vol. #1}{\textit{MESW} Vol. #1, #2}}}
+\newcommand{\MESW}[2]{\mesw{#1}{#2}}
+% Theories of Surplus Value
+\newcommand{\mehrwert}[0]{\textit{Theorien über den Mehrwert}}
+% Marx-Engels Werke (MEW)
+\newcommand{\mew}[2]{\ifthenelse{\isempty{#2}}{\textit{MEW} Vol. #1}{\textit{MEW} Vol. #1, #2}}
+\newcommand{\MEW}[2]{\mew{#1}{#2}}
+% Digital Register
+\newcommand{\register}[1]{\ifthenelse{\isempty{#1}}{\href{https://airtable.com/shrFKP7fp64su32Ad}{Digital Register}}{\href{https://airtable.com/shrFKP7fp64su32Ad}{DR.#1}}}
+
+% For chapter subtitles
+\usepackage{relsize}
+\newcommand\Chapter[2]{
+  \chapter[#1: {\itshape#2}]{#1\\\medskip\smaller[2]\itshape#2}
+}
+
+% According to StackOverflow, hyperref should pretty much always be loaded last (see, e.g., https://tex.stackexchange.com/questions/103559/appendices-at-section-level-in-toc )
+
+%\usepackage[bookmarks=true, hidelinks]{hyperref}
+%\usepackage[hidelinks]{hyperref}
+\usepackage{hyperref}

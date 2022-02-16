@@ -1,0 +1,174 @@
+\documentclass[12pt]{report}   %12 point font for Times New Roman
+
+\input{headers.tex}
+
+\newcommand{\compileAsChapter}{true}
+
+% Start of Dissertation Document
+
+\begin{document}
+\doublespacing  %set line spacing to double by default through out the document. This can be overwritten when necessary
+
+% Title Page (No page number)
+\input{front_matter/TitlePage.tex}
+
+% Copyright Page (No page number)
+\input{front_matter/CopyrightPage.tex}
+
+% Abstract (No page number)
+\pagenumbering{gobble}
+\input{front_matter/Abstract.tex}
+
+% Table of Contents
+%\currentpdfbookmark{Table of Contents}{TOC}
+% Format for Table of Contents
+\pagenumbering{roman}
+\setcounter{page}{1} 
+\renewcommand{\cftchapdotsep}{\cftdotsep}  %add dot separators
+\renewcommand{\cftchapfont}{\normalfont}  %set title font weight that shows up on TOC
+\renewcommand{\cftchappagefont}{}  %set page number font weight
+\renewcommand{\cftchappresnum}{Chapter }
+\renewcommand{\cftchapaftersnum}{:}
+\renewcommand{\cftchapnumwidth}{5em}
+\renewcommand{\cftchapafterpnum}{\vskip\baselineskip} %set correct spacing for entries in single space environment
+\renewcommand{\cftsecafterpnum}{\vskip\baselineskip}  %set correct spacing for entries in single space environment
+\renewcommand{\cftsubsecafterpnum}{\vskip\baselineskip} %set correct spacing for entries in single space environment
+\renewcommand{\cftsubsubsecafterpnum}{\vskip\baselineskip} %set correct spacing for entries in single space environment
+
+%format title font size and position (this also applys to list of figures and list of tables)
+\titleformat{\chapter}[display]
+{\normalfont\bfseries\filcenter}{\chaptertitlename\ \thechapter}{0pt}{\large{#1}}
+
+\renewcommand\contentsname{Table of Contents}
+
+\begin{singlespace}
+\tableofcontents
+\setlength{\cftparskip}{\baselineskip}
+\listoffigures
+\listoftables
+\end{singlespace}
+
+\clearpage
+
+% Acknowledgments
+\phantomsection
+\addcontentsline{toc}{chapter}{Acknowledgments}
+\input{front_matter/Acknowledgements.tex}
+
+
+% Dedication
+\phantomsection
+\addcontentsline{toc}{chapter}{Dedication}
+\input{front_matter/Dedication.tex}
+
+%%%%%%%
+%	            %
+% Chapters   %
+%                   %
+%%%%%%%
+
+% General formatting for chapters, appendix, etc. 
+
+
+% reset page numbering for rest of document 
+\clearpage
+\pagenumbering{arabic}
+\setcounter{page}{1} 
+
+% Preface %This is optional
+%\phantomsection
+%\addcontentsline{toc}{chapter}{Preface}
+%\input{front_matter/Preface.tex}
+
+% Introduction
+\phantomsection
+\addcontentsline{toc}{chapter}{Introduction}
+\input{Introduction.tex}
+
+% Adjust chapter title formatting
+\titleformat{\chapter}[display]
+{\normalfont\bfseries\filcenter}{}{0pt}{\large\chaptertitlename\ \large\thechapter : \large\bfseries\filcenter{#1}}  
+\titlespacing*{\chapter}
+  {0pt}{0pt}{30pt}	%controls vertical margins on title
+  
+% Adjust section title formatting
+\titleformat{\section}{\normalfont\bfseries}{\thesection}{1em}{#1}
+
+% Adjust subsection title formatting
+\titleformat{\subsection}{\normalfont}{\thesubsection}{0em}{\hspace{1em}#1}
+
+% Below is a subsubsection, uncomment it if you need to use it
+%\titleformat{\subsubsection}{\normalfont\itshape}{\thesubsection}{1em}{#1}
+
+%%%%%%%%%%%%%%%%
+% Chapter 1
+%%%%%%%%%%%%%%%%
+
+\input{chapter1.tex}
+
+%%%%%%%%%%%%%%%%
+% Chapter 2
+%%%%%%%%%%%%%%%%
+
+\input{chapter2.tex}
+
+%%%%%%%%%%%%%%%%
+% Chapter 3
+%%%%%%%%%%%%%%%%
+
+\input{chapter3.tex}
+
+%%%%%%%%%%%%%%%%
+% Chapter 4
+%%%%%%%%%%%%%%%%
+
+%\input{chapter4.tex}
+
+%%%%%%%%%%%%%%%%
+% Conclusion
+%%%%%%%%%%%%%%%%
+
+\phantomsection
+\clearpage
+\addcontentsline{toc}{chapter}{Conclusion}
+\input{Conclusion.tex}
+
+
+%%%%%%%%%%%%%%%%
+% References
+%%%%%%%%%%%%%%%%
+\clearpage
+\titleformat{\chapter}[display]
+{\normalfont\bfseries\filcenter}{}{0pt}{\large\bfseries\filcenter{#1}}  % Reset title format for Reference section. (It is different from Chapter titles)
+\titlespacing*{\chapter}
+  {0pt}{0pt}{30pt}
+
+\begin{singlespace}  % use single-line spacing for multi-line text within a single reference
+	\setlength\bibitemsep{\baselineskip}  %manually set separataion betwen items in bibliography to double space
+	\addcontentsline{toc}{chapter}{References}  %add References section to Table of Contents
+	\nocite{*}
+	%\raggedright
+	\printbibliography[title={References}, notcategory=nondiss]
+\end{singlespace}
+
+
+
+%%%%%%%%%%%%%%%%
+% Appendices
+%%%%%%%%%%%%%%%%
+
+%Readjust Title format for Appendicies
+\titleformat{\chapter}[display]
+{\normalfont\bfseries\filcenter}{}{0pt}{\large\chaptertitlename\ \large\thechapter : \large\bfseries\filcenter{#1}}  
+\titlespacing*{\chapter}
+  {0pt}{0pt}{30pt}	%controls vertical margins on title
+  
+% Adjust section title formatting
+\titleformat{\section}{\normalfont\bfseries}{\thesection}{1em}{#1}
+
+% Adjust subsection title formatting
+\titleformat{\subsection}{\normalfont}{\thesubsection}{0em}{\hspace{1em}#1}
+
+%\input{Appendix.tex}
+
+\end{document} 

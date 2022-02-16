@@ -1,0 +1,14 @@
+%\section*{Abstract}
+
+\begin{center}\small\bfseries{Abstract}\end{center}
+
+% https://tex.stackexchange.com/questions/100729/inserting-abstract-into-book-document
+% Reduce the margin of the summary:
+\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
+\let\endchangemargin=\endlist
+
+\begin{changemargin}{1cm}{1cm}
+%\begin{abstract}
+\noindent We use tools from computational linguistics to assess the trajectory of Marx's thought over his life and his impact on the 19th century socialist movement. We combine a new, comprehensive corpus of Marx's complete works from 1835 to 1883 ($N > 1200$) with a large sample ($N = 250$) of 18th and 19th century texts Marx engaged with, and measure conceptual distance between Marx's works and various schools of 19th-century thought (political economists, socialists, and Hegelian philosophers) via contextual sentence embeddings. Two key breaks emerge in Marx's own writings: (a) Marx's writing becomes less Hegelian as he is exposed to Paris' brand of working-class-oriented socialism between 1843 and 1845, then (b) becomes more focused on issues of political economy over the remainder of his life in London, from 1849 onwards. We then assess Marx's influence on the broader socialist discourse of the 19th century via a corpus of contemporary socialist texts ($N = 200$), and find that Marx's semantic trajectory is mirrored, with a lag, by changes in the semantic trajectory of European socialist thought. This discourse shifts away from moralistic and Hegelian themes and towards a more positivistic political-economic vocabulary, especially after Marx's rise to public prominence in the wake of the 1871 Paris Commune. Marx's unique blend of German philosophy, French socialism, and British political economy defeated would-be competitors in the 19th century, establishing Marxism as the default language of European socialism by the time of Engels' death in 1895.
+%\end{abstract}
+\end{changemargin}

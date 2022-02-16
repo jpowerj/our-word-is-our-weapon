@@ -1,0 +1,2663 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.10)  16 FEB 2022 14:06
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./thesis.tex
+(thesis.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-05>
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(headers.tex
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count194
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count195
+\leftroot@=\count196
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count197
+\DOTSCASE@=\count198
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count199
+\c@MaxMatrixCols=\count266
+\dotsspace@=\muskip16
+\c@parentequation=\count267
+\dspbrk@lvl=\count268
+\tag@help=\toks17
+\row@=\count269
+\column@=\count270
+\maxfields@=\count271
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count272
+\calc@Bcount=\count273
+\calc@Adimen=\dimen148
+\calc@Bdimen=\dimen149
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count274
+\calc@Cskip=\skip54
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count275
+\l_MT_multwidth_dim=\dimen150
+\origjot=\skip55
+\l_MT_shortvdotswithinadjustabove_dim=\dimen151
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen152
+\l_MT_above_intertext_sep=\dimen153
+\l_MT_below_intertext_sep=\dimen154
+\l_MT_above_shortintertext_sep=\dimen155
+\l_MT_below_shortintertext_sep=\dimen156
+\xmathstrut@box=\box52
+\xmathstrut@dim=\dimen157
+) (C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen158
+\ar@mcellbox=\box53
+\extrarowheight=\dimen159
+\NC@list=\toks24
+\extratabsurround=\skip56
+\backup@length=\skip57
+\ar@cellbox=\box54
+)
+\TX@col@width=\dimen160
+\TX@old@table=\dimen161
+\TX@old@col=\dimen162
+\TX@target=\dimen163
+\TX@delta=\dimen164
+\TX@cols=\count276
+\TX@ftn=\toks25
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/threeparttable\threepar
+ttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box55
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen165
+\Gin@req@width=\dimen166
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count277
+\Gm@cntv=\count278
+\c@Gm@tempcnt=\count279
+\Gm@bindingoffset=\dimen167
+\Gm@wd@mp=\dimen168
+\Gm@odd@mp=\dimen169
+\Gm@even@mp=\dimen170
+\Gm@layoutwidth=\dimen171
+\Gm@layoutheight=\dimen172
+\Gm@layouthoffset=\dimen173
+\Gm@layoutvoffset=\dimen174
+\Gm@dimlist=\toks26
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box56
+\beforetitleunit=\skip58
+\aftertitleunit=\skip59
+\ttl@plus=\dimen175
+\ttl@minus=\dimen176
+\ttl@toksa=\toks27
+\titlewidth=\dimen177
+\titlewidthlast=\dimen178
+\titlewidthfirst=\dimen179
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip60
+\cftbeforetoctitleskip=\skip61
+\cftaftertoctitleskip=\skip62
+\cftbeforepartskip=\skip63
+\cftpartnumwidth=\skip64
+\cftpartindent=\skip65
+\cftbeforechapskip=\skip66
+\cftchapindent=\skip67
+\cftchapnumwidth=\skip68
+\cftbeforesecskip=\skip69
+\cftsecindent=\skip70
+\cftsecnumwidth=\skip71
+\cftbeforesubsecskip=\skip72
+\cftsubsecindent=\skip73
+\cftsubsecnumwidth=\skip74
+\cftbeforesubsubsecskip=\skip75
+\cftsubsubsecindent=\skip76
+\cftsubsubsecnumwidth=\skip77
+\cftbeforeparaskip=\skip78
+\cftparaindent=\skip79
+\cftparanumwidth=\skip80
+\cftbeforesubparaskip=\skip81
+\cftsubparaindent=\skip82
+\cftsubparanumwidth=\skip83
+\cftbeforeloftitleskip=\skip84
+\cftafterloftitleskip=\skip85
+\cftbeforefigskip=\skip86
+\cftfigindent=\skip87
+\cftfignumwidth=\skip88
+\c@lofdepth=\count280
+\c@lotdepth=\count281
+\cftbeforelottitleskip=\skip89
+\cftafterlottitleskip=\skip90
+\cftbeforetabskip=\skip91
+\cfttabindent=\skip92
+\cfttabnumwidth=\skip93
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count282
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count283
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count284
+\c@listtotal=\count285
+\c@listcount=\count286
+\c@liststart=\count287
+\c@liststop=\count288
+\c@citecount=\count289
+\c@citetotal=\count290
+\c@multicitecount=\count291
+\c@multicitetotal=\count292
+\c@instcount=\count293
+\c@maxnames=\count294
+\c@minnames=\count295
+\c@maxitems=\count296
+\c@minitems=\count297
+\c@citecounter=\count298
+\c@maxcitecounter=\count299
+\c@savedcitecounter=\count300
+\c@uniquelist=\count301
+\c@uniquename=\count302
+\c@refsection=\count303
+\c@refsegment=\count304
+\c@maxextratitle=\count305
+\c@maxextratitleyear=\count306
+\c@maxextraname=\count307
+\c@maxextradate=\count308
+\c@maxextraalpha=\count309
+\c@abbrvpenalty=\count310
+\c@highnamepenalty=\count311
+\c@lownamepenalty=\count312
+\c@maxparens=\count313
+\c@parenlevel=\count314
+\blx@tempcnta=\count315
+\blx@tempcntb=\count316
+\blx@tempcntc=\count317
+\c@blx@maxsection=\count318
+\c@blx@maxsegment@0=\count319
+\blx@notetype=\count320
+\blx@parenlevel@text=\count321
+\blx@parenlevel@foot=\count322
+\c@blx@sectionciteorder@0=\count323
+\blx@entrysetcounter=\count324
+\blx@biblioinstance=\count325
+\labelnumberwidth=\skip94
+\labelalphawidth=\skip95
+\biblabelsep=\skip96
+\bibitemsep=\skip97
+\bibnamesep=\skip98
+\bibinitsep=\skip99
+\bibparsep=\skip100
+\bibhang=\skip101
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language79
+\c@mincomprange=\count326
+\c@maxcomprange=\count327
+\c@mincompwidth=\count328
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex bibstyle data model...
+Package biblatex Info: ... file 'ieee.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count329
+\c@savedafterword=\count330
+\c@annotator=\count331
+\c@savedannotator=\count332
+\c@author=\count333
+\c@savedauthor=\count334
+\c@bookauthor=\count335
+\c@savedbookauthor=\count336
+\c@commentator=\count337
+\c@savedcommentator=\count338
+\c@editor=\count339
+\c@savededitor=\count340
+\c@editora=\count341
+\c@savededitora=\count342
+\c@editorb=\count343
+\c@savededitorb=\count344
+\c@editorc=\count345
+\c@savededitorc=\count346
+\c@foreword=\count347
+\c@savedforeword=\count348
+\c@holder=\count349
+\c@savedholder=\count350
+\c@introduction=\count351
+\c@savedintroduction=\count352
+\c@namea=\count353
+\c@savednamea=\count354
+\c@nameb=\count355
+\c@savednameb=\count356
+\c@namec=\count357
+\c@savednamec=\count358
+\c@translator=\count359
+\c@savedtranslator=\count360
+\c@shortauthor=\count361
+\c@savedshortauthor=\count362
+\c@shorteditor=\count363
+\c@savedshorteditor=\count364
+\c@labelname=\count365
+\c@savedlabelname=\count366
+\c@institution=\count367
+\c@savedinstitution=\count368
+\c@lista=\count369
+\c@savedlista=\count370
+\c@listb=\count371
+\c@savedlistb=\count372
+\c@listc=\count373
+\c@savedlistc=\count374
+\c@listd=\count375
+\c@savedlistd=\count376
+\c@liste=\count377
+\c@savedliste=\count378
+\c@listf=\count379
+\c@savedlistf=\count380
+\c@location=\count381
+\c@savedlocation=\count382
+\c@organization=\count383
+\c@savedorganization=\count384
+\c@origlocation=\count385
+\c@savedoriglocation=\count386
+\c@origpublisher=\count387
+\c@savedorigpublisher=\count388
+\c@publisher=\count389
+\c@savedpublisher=\count390
+\c@language=\count391
+\c@savedlanguage=\count392
+\c@origlanguage=\count393
+\c@savedoriglanguage=\count394
+\c@pageref=\count395
+\c@savedpageref=\count396
+\shorthandwidth=\skip102
+\shortjournalwidth=\skip103
+\shortserieswidth=\skip104
+\shorttitlewidth=\skip105
+\shortauthorwidth=\skip106
+\shorteditorwidth=\skip107
+\locallabelnumberwidth=\skip108
+\locallabelalphawidth=\skip109
+\localshorthandwidth=\skip110
+\localshortjournalwidth=\skip111
+\localshortserieswidth=\skip112
+\localshorttitlewidth=\skip113
+\localshortauthorwidth=\skip114
+\localshorteditorwidth=\skip115
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-bibtex.def
+File: blx-bibtex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+\c@textcitecount=\count397
+\c@textcitetotal=\count398
+\c@textcitemaxnames=\count399
+\c@biburlbigbreakpenalty=\count400
+\c@biburlbreakpenalty=\count401
+\c@biburlnumpenalty=\count402
+\c@biburlucpenalty=\count403
+\c@biburllcpenalty=\count404
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count405
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-natbib.def
+File: blx-natbib.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+)
+Package biblatex Info: Trying to load bibliography style 'ieee'...
+Package biblatex Info: ... file 'ieee.bbx' found.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.bbx
+File: ieee.bbx 2021/12/06 v1.3f biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric-co
+mp.bbx
+File: numeric-comp.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bb
+x
+File: numeric.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
+bx
+File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count406
+\c@bbx:relatedtotal=\count407
+))))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cb
+x
+File: numeric.cbx 2022/02/02 v3.17 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-02-05 L3 programming layer (loader) 
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count408
+\l__pdf_internal_box=\box57
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2022-02-05 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
+.sty
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
+))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count409
+\c@@ppsavesec=\count410
+\c@@ppsaveapp=\count411
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
+\UL@box=\box58
+\UL@hyphenbox=\box59
+\UL@skip=\skip116
+\UL@hook=\toks28
+\UL@height=\dimen180
+\UL@pe=\count412
+\UL@pixel=\dimen181
+\ULC@box=\box60
+Package: ulem 2019/11/18
+\ULdepth=\dimen182
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen183
+\lightrulewidth=\dimen184
+\cmidrulewidth=\dimen185
+\belowrulesep=\dimen186
+\belowbottomsep=\dimen187
+\aboverulesep=\dimen188
+\abovetopsep=\dimen189
+\cmidrulesep=\dimen190
+\cmidrulekern=\dimen191
+\defaultaddspace=\dimen192
+\@cmidla=\count413
+\@cmidlb=\count414
+\@aboverulesep=\dimen193
+\@belowrulesep=\dimen194
+\@thisruleclass=\count415
+\@lastruleclass=\count416
+\@thisrulewidth=\dimen195
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/arydshln\arydshln.sty
+Package: arydshln 2019/02/21 v1.76 
+\dashlinedash=\dimen196
+\dashlinegap=\dimen197
+\adl@box=\box61
+\adl@height=\dimen198
+\adl@heightsave=\dimen199
+\adl@depth=\dimen256
+\adl@depthsave=\dimen257
+\adl@finaldepth=\dimen258
+\adl@columns=\count417
+\adl@ncol=\count418
+\adl@currentcolumn=\count419
+\adl@currentcolumnsave=\count420
+\adl@totalheight=\count421
+\adl@totalheightsave=\count422
+\adl@dash=\count423
+\adl@gap=\count424
+\adl@cla=\count425
+\adl@clb=\count426
+\adl@everyvbox=\toks29
+\adl@LTpagetotal=\dimen259
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
+Package: newtxmath 2021/12/18 v1.7
+
+`newtxmath' v1.7, 2021/12/18 Math macros based originally on txfonts (msharpe)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks30
+\XKV@tempa@toks=\toks31
+)
+\XKV@depth=\count427
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\tx@cntz=\count428
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
+\tx@Isdigit=\count429
+\tx@IsAlNum=\count430
+\tx@tA=\toks32
+\tx@tB=\toks33
+\tx@su=\read3
+
+amsthm NOT loaded
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 373.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/m/n on input line 373.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmr/m/n on input line 373.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/b/n on input line 374.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 380.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 380.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 380.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 381.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmr/m/it on input line 381.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/cmr/m/it on input line 381.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 382.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 382.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 382.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 384.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/cmr/b/n on input line 384.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmr/b/n on input line 384.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/m/it --> OT1/cmr/b/it on input line 385.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 386.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 387.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 488.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 488.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ntxmi/m/it on input line 488.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/ntxmi/m/it --> OML/ntxmi/b/it on input line 489.
+\symlettersA=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 544.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 546.
+Now handling font encoding LMS ...
+... no UTF-8 mapping file for font encoding LMS
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 565.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 565.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 565.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 565.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 565.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 566.
+\symAMSm=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 591.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 612.
+Now handling font encoding LMX ...
+... no UTF-8 mapping file for font encoding LMX
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 625.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 6
+25.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 625.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 625
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 625.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 626.
+\symlargesymbolsTXA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 640.
+\tx@sbptoks=\toks34
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 863.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 864.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 865.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 866.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 867.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 868.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 869.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 871.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 875.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 876.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 947.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 948.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 2017.
+LaTeX Info: Redefining \Bbbk on input line 2807.
+LaTeX Info: Redefining \not on input line 2956.
+) (C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/ntxmi/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Encoding `LMS' has changed to `OMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 24.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  LMS/ntxsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Encoding `LMX' has changed to `OMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 2
+5.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  LMX/ntxexx/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/b/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/ntxmi/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Encoding `LMS' has changed to `OMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Encoding `LMX' has changed to `OMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 29.
+
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/b/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/b/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  T1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  T1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/b/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/cmss/b/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/b/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/cmtt/b/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/epigraph\epigraph.sty
+Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/nextpage\nextpage.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+)
+\beforeepigraphskip=\skip117
+\afterepigraphskip=\skip118
+\epigraphwidth=\skip119
+\epigraphrule=\skip120
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks35
+\pgfutil@tempdima=\dimen260
+\pgfutil@tempdimb=\dimen261
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common-lists.tex))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box62
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks36
+\pgfkeys@temptoks=\toks37
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+filtered.code.tex
+\pgfkeys@tmptoks=\toks38
+))
+\pgf@x=\dimen262
+\pgf@y=\dimen263
+\pgf@xa=\dimen264
+\pgf@ya=\dimen265
+\pgf@xb=\dimen266
+\pgf@yb=\dimen267
+\pgf@xc=\dimen268
+\pgf@yc=\dimen269
+\pgf@xd=\dimen270
+\pgf@yd=\dimen271
+\w@pgf@writea=\write4
+\r@pgf@reada=\read4
+\c@pgf@counta=\count431
+\c@pgf@countb=\count432
+\c@pgf@countc=\count433
+\c@pgf@countd=\count434
+\t@pgf@toka=\toks39
+\t@pgf@tokb=\toks40
+\t@pgf@tokc=\toks41
+\pgf@sys@id@count=\count435
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count436
+\pgfsyssoftpath@bigbuffer@items=\count437
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen272
+\pgfmath@count=\count438
+\pgfmath@box=\box63
+\pgfmath@toks=\toks42
+\pgfmath@stack@operand=\toks43
+\pgfmath@stack@operation=\toks44
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count439
+))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen273
+\pgf@picmaxx=\dimen274
+\pgf@picminy=\dimen275
+\pgf@picmaxy=\dimen276
+\pgf@pathminx=\dimen277
+\pgf@pathmaxx=\dimen278
+\pgf@pathminy=\dimen279
+\pgf@pathmaxy=\dimen280
+\pgf@xx=\dimen281
+\pgf@xy=\dimen282
+\pgf@yx=\dimen283
+\pgf@yy=\dimen284
+\pgf@zx=\dimen285
+\pgf@zy=\dimen286
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen287
+\pgf@path@lasty=\dimen288
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen289
+\pgf@shorten@start@additional=\dimen290
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box64
+\pgf@hbox=\box65
+\pgf@layerbox@main=\box66
+\pgf@picture@serial@count=\count440
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen291
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen292
+\pgf@pt@y=\dimen293
+\pgf@pt@temp=\dimen294
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen295
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen296
+\pgf@sys@shading@range@num=\count441
+\pgf@shadingcount=\count442
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box67
+))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box68
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen297
+\pgf@nodesepend=\dimen298
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex)
+\pgffor@iter=\dimen299
+\pgffor@skip=\dimen300
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count443
+\pgfplotmarksize=\dimen301
+)
+\tikz@lastx=\dimen302
+\tikz@lasty=\dimen303
+\tikz@lastxsaved=\dimen304
+\tikz@lastysaved=\dimen305
+\tikz@lastmovetox=\dimen306
+\tikz@lastmovetoy=\dimen307
+\tikzleveldistance=\dimen308
+\tikzsiblingdistance=\dimen309
+\tikz@figbox=\box69
+\tikz@figbox@bg=\box70
+\tikz@tempbox=\box71
+\tikz@tempbox@bg=\box72
+\tikztreelevel=\count444
+\tikznumberofchildren=\count445
+\tikznumberofcurrentchild=\count446
+\tikz@fig@count=\count447
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count448
+\pgfmatrixcurrentcolumn=\count449
+\pgf@matrix@numberofcolumns=\count450
+)
+\tikz@expandcount=\count451
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/tikz-bayesnet\tikzlibra
+rybayesnet.code.tex
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.callouts.code.tex
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.callouts.code.tex))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodepartlowerbox=\box73
+\pgfnodeparttwobox=\box74
+\pgfnodepartthreebox=\box75
+\pgfnodepartfourbox=\box76
+\pgfnodeparttwentybox=\box77
+\pgfnodepartnineteenbox=\box78
+\pgfnodeparteighteenbox=\box79
+\pgfnodepartseventeenbox=\box80
+\pgfnodepartsixteenbox=\box81
+\pgfnodepartfifteenbox=\box82
+\pgfnodepartfourteenbox=\box83
+\pgfnodepartthirteenbox=\box84
+\pgfnodeparttwelvebox=\box85
+\pgfnodepartelevenbox=\box86
+\pgfnodeparttenbox=\box87
+\pgfnodepartninebox=\box88
+\pgfnodeparteightbox=\box89
+\pgfnodepartsevenbox=\box90
+\pgfnodepartsixbox=\box91
+\pgfnodepartfivebox=\box92
+)))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarychains.code.tex
+File: tikzlibrarychains.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.code.tex
+File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\arrowsize=\dimen310
+)))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/mdwtools\footnote.sty
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box93
+\fn@width=\dimen311
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/xifthen\xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/ifmtarg\ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/esvect\esvect.sty
+Package: esvect 
+\symesvector=\mathgroup10
+)
+   defining Unicode char U+2212 (decimal 8722)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/svg\svg.sty
+Package: svg 2020/11/26 v2.02k (include SVG pictures)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.st
+y
+Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-ho
+ok.sty
+Package: scrlfile-hook 2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
+
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
+ty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+) (C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\c@svg@param@lastpage=\count452
+\svg@box=\box94
+\c@svg@param@currpage=\count453
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent
+.sty
+Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
+
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+))
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+\@linkdim=\dimen312
+\Hy@linkcounter=\count454
+\Hy@pagecounter=\count455
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langp
+atches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count456
+ (C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count457
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen313
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count458
+\Field@Width=\dimen314
+\Fld@charsize=\dimen315
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count459
+\c@Item=\count460
+\c@Hfootnote=\count461
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count462
+\c@bookmark@seq@number=\count463
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip121
+)
+\@quotelevel=\count464
+\@quotereset=\count465
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 9.
+
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+(thesis.aux)
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 9.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
+ 9.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
+File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
+)
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 9.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
+9.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 9.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
+ 9.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 9.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
+e 9.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count466
+\scratchdimen=\dimen316
+\scratchbox=\box95
+\nofMPsegments=\count467
+\nofMParguments=\count468
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count469
+\MPscratchDim=\dimen317
+\MPnumerator=\count470
+\makeMPintoPDFobject=\count471
+\everyMPtoPDFconversion=\toks48
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
+x
+File: english.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout3 = `thesis-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'thesis.bbl' found.
+ (thesis.bbl)
+Package biblatex Info: Reference section=0 on input line 9.
+Package biblatex Info: Reference segment=0 on input line 9.
+Package hyperref Info: Link coloring OFF on input line 9.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count472
+)
+LaTeX Info: Redefining \ref on input line 9.
+LaTeX Info: Redefining \pageref on input line 9.
+LaTeX Info: Redefining \nameref on input line 9.
+ (thesis.out) (thesis.out)
+\@outlinefile=\write5
+\openout5 = `thesis.out'.
+
+ (front_matter/TitlePage.tex [1
+
+{C:/Users/jpjac/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
+(front_matter/CopyrightPage.tex
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 9
+.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.18 \end{titlepage}
+                     [1]) (front_matter/Abstract.tex) (thesis.toc
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+1.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+1.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 1.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8.8> on input line 1.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6.6> on input line 1.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
+1.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
+File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
+1.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
+File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
+1.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Trying to load font information for U+esvect on input line 
+1.
+
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/esvect\uesvect.fd
+File: uesvect.fd 
+)
+Missing character: There is no ¹ in font lmsy10!
+[1
+
+] [2] [3])
+\tf@toc=\write6
+\openout6 = `thesis.toc'.
+
+ [4] (thesis.lof
+Overfull \hbox (17.32997pt too wide) in paragraph at lines 5--5
+ [][] [][]\T1/lmr/m/n/12 A screen-shot from the in-ter-ac-tive vi-su-al-izer, a
+vail-able at []https://textlab.app/cahiers[][] []  
+ []
+
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 8
+.
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [5
+
+])
+\tf@lof=\write7
+\openout7 = `thesis.lof'.
+
+
+[6] (thesis.lot)
+\tf@lot=\write8
+\openout8 = `thesis.lot'.
+
+ [7
+
+] (front_matter/Acknowledgements.tex [8
+
+
+])
+(front_matter/Dedication.tex) [9
+
+] (Introduction.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.6 
+     [1
+
+]
+Overfull \hbox (17.221pt too wide) in paragraph at lines 12--13
+[]\T1/lmr/m/n/12 ``Simultaneous and Sys-tem-atic Abo-li-tion''?: Text-Analyzing
+ the 1789 \T1/lmr/m/it/12 Cahiers de Doléances 
+ []
+
+) [2] (chapter1.tex [3]
+Chapter 1.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 7.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 7.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6.1> on input line 7.
+Missing character: There is no ¹ in font lmsy10!
+[4
+
+]
+Overfull \vbox (37.42194pt too high) has occurred while \output is active []
+
+
+[5]
+Missing character: There is no ¹ in font lmsy10!
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 15.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7.3> on input line 15.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5.5> on input line 15.
+
+LaTeX Font Warning: Font shape `U/esvect/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 15.
+
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+[6]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+<ch1_figs/markov_chain.png, id=576, 469.755pt x 210.7875pt>
+File: ch1_figs/markov_chain.png Graphic file (type png)
+<use ch1_figs/markov_chain.png>
+Package pdftex.def Info: ch1_figs/markov_chain.png  used on input line 24.
+(pdftex.def)             Requested size: 469.75502pt x 210.78699pt.
+Missing character: There is no ¹ in font lmsy10!
+[7] [8 <./ch1_figs/markov_chain.png>] [9]
+Missing character: There is no ¹ in font lmsy10!
+[10]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+[11] [12]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+[13]
+<ch1_figs/corsica_te.jpg, id=636, 519.3804pt x 688.7331pt>
+File: ch1_figs/corsica_te.jpg Graphic file (type jpg)
+<use ch1_figs/corsica_te.jpg>
+Package pdftex.def Info: ch1_figs/corsica_te.jpg  used on input line 63.
+(pdftex.def)             Requested size: 234.8775pt x 311.46136pt.
+ [14 <./ch1_figs/corsica_te.jpg>]
+<ch1_figs/markoff_96_fig6-1.png, id=644, 455.45157pt x 319.94531pt>
+File: ch1_figs/markoff_96_fig6-1.png Graphic file (type png)
+<use ch1_figs/markoff_96_fig6-1.png>
+Package pdftex.def Info: ch1_figs/markoff_96_fig6-1.png  used on input line 72.
+
+(pdftex.def)             Requested size: 455.45045pt x 319.94452pt.
+ [15 <./ch1_figs/markoff_96_fig6-1.png>]
+Overfull \hbox (3.14651pt too wide) in paragraph at lines 81--82
+[]\T1/lmr/m/n/12 Though Toc-queville's method-olog-i-cal rigor far ex-ceeded th
+at of his con-tem-po-raries, Robert
+ []
+
+
+Overfull \hbox (7.86261pt too wide) in paragraph at lines 83--84
+[]\T1/lmr/m/n/12 Recognizing this is-sue of se-lec-tion bias, quantitatively-mi
+nded his-tor-i-cal so-ci-ol-o-gists Gilbert
+ []
+
+[16]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+[17]
+<ch1_figs/topic_viz.png, id=671, 469.755pt x 237.88875pt>
+File: ch1_figs/topic_viz.png Graphic file (type png)
+<use ch1_figs/topic_viz.png>
+Package pdftex.def Info: ch1_figs/topic_viz.png  used on input line 99.
+(pdftex.def)             Requested size: 469.75386pt x 237.88815pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+[]\T1/lmr/m/n/12 Figure 1.4: []A screen-shot from the in-ter-ac-tive vi-su-al-i
+zer, avail-able at
+ []
+
+[18] [19 <./ch1_figs/topic_viz.png>] [20]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+[21] [22]
+<ch1_figs/blei_lda.png, id=711, 469.755pt x 246.9225pt>
+File: ch1_figs/blei_lda.png Graphic file (type png)
+<use ch1_figs/blei_lda.png>
+Package pdftex.def Info: ch1_figs/blei_lda.png  used on input line 130.
+(pdftex.def)             Requested size: 469.75502pt x 246.92188pt.
+
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ¹ in font lmsy10!
+[23
+
+]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+[24 <./ch1_figs/blei_lda.png>]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no Ï in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no Ï in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no Ï in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no Ï in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no Ï in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no Ï in font lmsy10!
+) (chapter2.tex [25]
+Chapter 2.
+(ch2//ch2_abstract.tex) (ch2//intro00_overview.tex [26
+
+] [27])
+(ch2//intro01_cambridge.tex [28]
+Missing character: There is no ¹ in font lmsy10!
+[29]) (ch2//intro02_marx.tex [30]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+[31]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+[][][]\T1/lmr/m/n/10 A list-ing of the con-tents of these note-books, along wit
+h fac-sim-i-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+\T1/lmr/m/n/10 les of each hand-written page, are avail-able via the IISG web-s
+ite at
+ []
+
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+[32]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+
+Overfull \hbox (55.19987pt too wide) in paragraph at lines 18--19
+\T1/lmr/m/n/12 tional databases---see, e.g., the en-try for Karl Marx here: []h
+ttps://www.wikidata.org/wiki/Q9061[]),
+ []
+
+) (ch2//intro03_methods.tex
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 3
+.
+(C:\Users\jpjac\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+[33] [34]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+[35]) (ch2//infl00_background.tex
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+) [36] (ch2//infl01_methods.tex [37]) (ch2//infl02_results.tex
+(ch2_figs/Calib0_Hegel_de_sims.tex
+Missing character: There is no ¹ in font lmsy10!
+
+Overfull \hbox (36.12811pt too wide) in paragraph at lines 5--15
+ [][] 
+ []
+
+)
+
+LaTeX Warning: Reference `tab:hegelsims' on page 38 undefined on input line 22.
+
+
+(ch2_figs/Emb0_Hegel_de_sims.tex
+Overfull \hbox (92.18527pt too wide) in paragraph at lines 5--32
+ [][] 
+ []
+
+)
+<./ch2_figs//Emb0_Hegel_de_ts.png, id=875, 722.7pt x 433.62pt>
+File: ./ch2_figs//Emb0_Hegel_de_ts.png Graphic file (type png)
+<use ./ch2_figs//Emb0_Hegel_de_ts.png>
+Package pdftex.def Info: ./ch2_figs//Emb0_Hegel_de_ts.png  used on input line 2
+7.
+(pdftex.def)             Requested size: 469.75502pt x 281.85628pt.
+ [38] [39]
+Missing character: There is no ¹ in font lmsy10!
+[40 <./ch2_figs//Emb0_Hegel_de_ts.png>] (ch2_figs/Calib1_Proudhon_de_sims.tex
+Missing character: There is no ¹ in font lmsy10!
+)
+<./ch2_figs//Emb1_Proudhon_de_ts.png, id=900, 722.7pt x 433.62pt>
+File: ./ch2_figs//Emb1_Proudhon_de_ts.png Graphic file (type png)
+<use ./ch2_figs//Emb1_Proudhon_de_ts.png>
+Package pdftex.def Info: ./ch2_figs//Emb1_Proudhon_de_ts.png  used on input lin
+e 63.
+(pdftex.def)             Requested size: 469.75502pt x 281.85628pt.
+ (ch2_figs/Emb1_Proudhon_de_sims.tex
+Overfull \hbox (150.85641pt too wide) in paragraph at lines 5--32
+ [][] 
+ []
+
+)
+Missing character: There is no ¹ in font lmsy10!
+(ch2_figs/Calib2_PolEcon_de_sims.tex
+Missing character: There is no ¹ in font lmsy10!
+) [41] [42] (ch2_figs/Emb2_PolEcon_de_sims.tex)
+<./ch2_figs//Emb2_PolEcon_de_ts.png, id=920, 722.7pt x 433.62pt>
+File: ./ch2_figs//Emb2_PolEcon_de_ts.png Graphic file (type png)
+<use ./ch2_figs//Emb2_PolEcon_de_ts.png>
+Package pdftex.def Info: ./ch2_figs//Emb2_PolEcon_de_ts.png  used on input line
+ 94.
+(pdftex.def)             Requested size: 469.75502pt x 281.85628pt.
+) (ch2//camb00_intro.tex
+[43 <./ch2_figs//Emb1_Proudhon_de_ts.png>] [44] [45 <./ch2_figs//Emb2_PolEcon_d
+e_ts.png>]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+[46]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+) (ch2//camb01_interloc.tex [47] [48]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+[49]
+Missing character: There is no ¹ in font lmsy10!
+[50]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+[51]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+[52]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+[53]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+) (ch2//camb02_methods.tex
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no º in font lmsy10!
+[54]) [55] (ch2//camb03_results.tex
+<./ch2_figs//camb_result.png, id=1061, 661.2705pt x 334.24875pt>
+File: ./ch2_figs//camb_result.png Graphic file (type png)
+<use ./ch2_figs//camb_result.png>
+Package pdftex.def Info: ./ch2_figs//camb_result.png  used on input line 5.
+(pdftex.def)             Requested size: 469.75502pt x 237.45087pt.
+Package svg Info: Last page of `./svg-inkscape/rolling_pe_sim_svg-tex.pdf' is 1
+ on input line 12.
+
+(svg-inkscape/rolling_pe_sim_svg-tex.pdf_tex
+<./svg-inkscape/rolling_pe_sim_svg-tex.pdf, id=1063, page=1, 794.97pt x 614.295
+pt>
+File: ./svg-inkscape/rolling_pe_sim_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/rolling_pe_sim_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/rolling_pe_sim_svg-tex.pdf , page1 used
+ on input line 56.
+(pdftex.def)             Requested size: 469.75502pt x 363.00267pt.
+)
+Package svg Info: Last page of `./svg-inkscape/pe_centroid_svg-tex.pdf' is 8 on
+ input line 18.
+
+(svg-inkscape/pe_centroid_svg-tex.pdf_tex
+<./svg-inkscape/pe_centroid_svg-tex.pdf, id=1065, page=1, 584.93532pt x 274.023
+74pt>
+File: ./svg-inkscape/pe_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/pe_centroid_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/pe_centroid_svg-tex.pdf , page1 used on
+ input line 56.
+(pdftex.def)             Requested size: 469.75502pt x 220.07227pt.
+<./svg-inkscape/pe_centroid_svg-tex.pdf, id=1066, page=2, 584.93532pt x 274.023
+74pt>
+File: ./svg-inkscape/pe_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/pe_centroid_svg-tex.pdf, page 2>
+Package pdftex.def Info: ./svg-inkscape/pe_centroid_svg-tex.pdf , page2 used on
+ input line 78.
+(pdftex.def)             Requested size: 469.75502pt x 220.07227pt.
+<./svg-inkscape/pe_centroid_svg-tex.pdf, id=1067, page=3, 584.93532pt x 274.023
+74pt>
+File: ./svg-inkscape/pe_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/pe_centroid_svg-tex.pdf, page 3>
+Package pdftex.def Info: ./svg-inkscape/pe_centroid_svg-tex.pdf , page3 used on
+ input line 80.
+(pdftex.def)             Requested size: 469.75502pt x 220.07227pt.
+<./svg-inkscape/pe_centroid_svg-tex.pdf, id=1068, page=4, 584.93532pt x 274.023
+74pt>
+File: ./svg-inkscape/pe_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/pe_centroid_svg-tex.pdf, page 4>
+Package pdftex.def Info: ./svg-inkscape/pe_centroid_svg-tex.pdf , page4 used on
+ input line 91.
+(pdftex.def)             Requested size: 469.75502pt x 220.07227pt.
+<./svg-inkscape/pe_centroid_svg-tex.pdf, id=1069, page=5, 584.93532pt x 274.023
+74pt>
+File: ./svg-inkscape/pe_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/pe_centroid_svg-tex.pdf, page 5>
+Package pdftex.def Info: ./svg-inkscape/pe_centroid_svg-tex.pdf , page5 used on
+ input line 93.
+(pdftex.def)             Requested size: 469.75502pt x 220.07227pt.
+<./svg-inkscape/pe_centroid_svg-tex.pdf, id=1070, page=6, 584.93532pt x 274.023
+74pt>
+File: ./svg-inkscape/pe_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/pe_centroid_svg-tex.pdf, page 6>
+Package pdftex.def Info: ./svg-inkscape/pe_centroid_svg-tex.pdf , page6 used on
+ input line 143.
+(pdftex.def)             Requested size: 469.75502pt x 220.07227pt.
+<./svg-inkscape/pe_centroid_svg-tex.pdf, id=1071, page=7, 584.93532pt x 274.023
+74pt>
+File: ./svg-inkscape/pe_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/pe_centroid_svg-tex.pdf, page 7>
+Package pdftex.def Info: ./svg-inkscape/pe_centroid_svg-tex.pdf , page7 used on
+ input line 145.
+(pdftex.def)             Requested size: 469.75502pt x 220.07227pt.
+<./svg-inkscape/pe_centroid_svg-tex.pdf, id=1072, page=8, 584.93532pt x 274.023
+74pt>
+File: ./svg-inkscape/pe_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/pe_centroid_svg-tex.pdf, page 8>
+Package pdftex.def Info: ./svg-inkscape/pe_centroid_svg-tex.pdf , page8 used on
+ input line 148.
+(pdftex.def)             Requested size: 469.75502pt x 220.07227pt.
+)
+Package svg Info: Last page of `./svg-inkscape/heg_centroid_svg-tex.pdf' is 8 o
+n input line 25.
+
+(svg-inkscape/heg_centroid_svg-tex.pdf_tex
+<./svg-inkscape/heg_centroid_svg-tex.pdf, id=1074, page=1, 584.93532pt x 270.25
+969pt>
+File: ./svg-inkscape/heg_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/heg_centroid_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/heg_centroid_svg-tex.pdf , page1 used o
+n input line 56.
+(pdftex.def)             Requested size: 469.75502pt x 217.04929pt.
+<./svg-inkscape/heg_centroid_svg-tex.pdf, id=1075, page=2, 584.93532pt x 270.25
+969pt>
+File: ./svg-inkscape/heg_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/heg_centroid_svg-tex.pdf, page 2>
+Package pdftex.def Info: ./svg-inkscape/heg_centroid_svg-tex.pdf , page2 used o
+n input line 80.
+(pdftex.def)             Requested size: 469.75502pt x 217.04929pt.
+<./svg-inkscape/heg_centroid_svg-tex.pdf, id=1076, page=3, 584.93532pt x 270.25
+969pt>
+File: ./svg-inkscape/heg_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/heg_centroid_svg-tex.pdf, page 3>
+Package pdftex.def Info: ./svg-inkscape/heg_centroid_svg-tex.pdf , page3 used o
+n input line 82.
+(pdftex.def)             Requested size: 469.75502pt x 217.04929pt.
+<./svg-inkscape/heg_centroid_svg-tex.pdf, id=1077, page=4, 584.93532pt x 270.25
+969pt>
+File: ./svg-inkscape/heg_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/heg_centroid_svg-tex.pdf, page 4>
+Package pdftex.def Info: ./svg-inkscape/heg_centroid_svg-tex.pdf , page4 used o
+n input line 90.
+(pdftex.def)             Requested size: 469.75502pt x 217.04929pt.
+<./svg-inkscape/heg_centroid_svg-tex.pdf, id=1078, page=5, 584.93532pt x 270.25
+969pt>
+File: ./svg-inkscape/heg_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/heg_centroid_svg-tex.pdf, page 5>
+Package pdftex.def Info: ./svg-inkscape/heg_centroid_svg-tex.pdf , page5 used o
+n input line 92.
+(pdftex.def)             Requested size: 469.75502pt x 217.04929pt.
+<./svg-inkscape/heg_centroid_svg-tex.pdf, id=1079, page=6, 584.93532pt x 270.25
+969pt>
+File: ./svg-inkscape/heg_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/heg_centroid_svg-tex.pdf, page 6>
+Package pdftex.def Info: ./svg-inkscape/heg_centroid_svg-tex.pdf , page6 used o
+n input line 158.
+(pdftex.def)             Requested size: 469.75502pt x 217.04929pt.
+<./svg-inkscape/heg_centroid_svg-tex.pdf, id=1080, page=7, 584.93532pt x 270.25
+969pt>
+File: ./svg-inkscape/heg_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/heg_centroid_svg-tex.pdf, page 7>
+Package pdftex.def Info: ./svg-inkscape/heg_centroid_svg-tex.pdf , page7 used o
+n input line 160.
+(pdftex.def)             Requested size: 469.75502pt x 217.04929pt.
+<./svg-inkscape/heg_centroid_svg-tex.pdf, id=1081, page=8, 584.93532pt x 270.25
+969pt>
+File: ./svg-inkscape/heg_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/heg_centroid_svg-tex.pdf, page 8>
+Package pdftex.def Info: ./svg-inkscape/heg_centroid_svg-tex.pdf , page8 used o
+n input line 163.
+(pdftex.def)             Requested size: 469.75502pt x 217.04929pt.
+)
+Package svg Info: Last page of `./svg-inkscape/comb_centroid_svg-tex.pdf' is 8 
+on input line 32.
+
+(svg-inkscape/comb_centroid_svg-tex.pdf_tex
+<./svg-inkscape/comb_centroid_svg-tex.pdf, id=1083, page=1, 580.41844pt x 270.2
+5969pt>
+File: ./svg-inkscape/comb_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/comb_centroid_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/comb_centroid_svg-tex.pdf , page1 used 
+on input line 56.
+(pdftex.def)             Requested size: 469.75502pt x 218.73181pt.
+<./svg-inkscape/comb_centroid_svg-tex.pdf, id=1084, page=2, 580.41844pt x 270.2
+5969pt>
+File: ./svg-inkscape/comb_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/comb_centroid_svg-tex.pdf, page 2>
+Package pdftex.def Info: ./svg-inkscape/comb_centroid_svg-tex.pdf , page2 used 
+on input line 69.
+(pdftex.def)             Requested size: 469.75502pt x 218.73181pt.
+<./svg-inkscape/comb_centroid_svg-tex.pdf, id=1085, page=3, 580.41844pt x 270.2
+5969pt>
+File: ./svg-inkscape/comb_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/comb_centroid_svg-tex.pdf, page 3>
+Package pdftex.def Info: ./svg-inkscape/comb_centroid_svg-tex.pdf , page3 used 
+on input line 71.
+(pdftex.def)             Requested size: 469.75502pt x 218.73181pt.
+<./svg-inkscape/comb_centroid_svg-tex.pdf, id=1086, page=4, 580.41844pt x 270.2
+5969pt>
+File: ./svg-inkscape/comb_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/comb_centroid_svg-tex.pdf, page 4>
+Package pdftex.def Info: ./svg-inkscape/comb_centroid_svg-tex.pdf , page4 used 
+on input line 78.
+(pdftex.def)             Requested size: 469.75502pt x 218.73181pt.
+<./svg-inkscape/comb_centroid_svg-tex.pdf, id=1087, page=5, 580.41844pt x 270.2
+5969pt>
+File: ./svg-inkscape/comb_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/comb_centroid_svg-tex.pdf, page 5>
+Package pdftex.def Info: ./svg-inkscape/comb_centroid_svg-tex.pdf , page5 used 
+on input line 80.
+(pdftex.def)             Requested size: 469.75502pt x 218.73181pt.
+<./svg-inkscape/comb_centroid_svg-tex.pdf, id=1088, page=6, 580.41844pt x 270.2
+5969pt>
+File: ./svg-inkscape/comb_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/comb_centroid_svg-tex.pdf, page 6>
+Package pdftex.def Info: ./svg-inkscape/comb_centroid_svg-tex.pdf , page6 used 
+on input line 141.
+(pdftex.def)             Requested size: 469.75502pt x 218.73181pt.
+<./svg-inkscape/comb_centroid_svg-tex.pdf, id=1089, page=7, 580.41844pt x 270.2
+5969pt>
+File: ./svg-inkscape/comb_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/comb_centroid_svg-tex.pdf, page 7>
+Package pdftex.def Info: ./svg-inkscape/comb_centroid_svg-tex.pdf , page7 used 
+on input line 143.
+(pdftex.def)             Requested size: 469.75502pt x 218.73181pt.
+<./svg-inkscape/comb_centroid_svg-tex.pdf, id=1090, page=8, 580.41844pt x 270.2
+5969pt>
+File: ./svg-inkscape/comb_centroid_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/comb_centroid_svg-tex.pdf, page 8>
+Package pdftex.def Info: ./svg-inkscape/comb_centroid_svg-tex.pdf , page8 used 
+on input line 146.
+(pdftex.def)             Requested size: 469.75502pt x 218.73181pt.
+)) (ch2//camb04_authresults.tex
+Missing character: There is no ¹ in font lmsy10!
+[56 <./ch2_figs//camb_result.png>]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+[57 <./svg-inkscape/rolling_pe_sim_svg-tex.pdf>] [58 <./svg-inkscape/pe_centroi
+d_svg-tex.pdf> <./svg-inkscape/pe_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/pe_centroid_svg-tex.pdf): PDF
+ inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/pe_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/pe_centroid_svg-tex.pdf): PDF
+ inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/pe_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/pe_centroid_svg-tex.pdf): PDF
+ inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/pe_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/pe_centroid_svg-tex.pdf): PDF
+ inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/pe_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/pe_centroid_svg-tex.pdf): PDF
+ inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/pe_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/pe_centroid_svg-tex.pdf): PDF
+ inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/pe_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/pe_centroid_svg-tex.pdf): PDF
+ inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/heg_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/heg_centroid_svg-tex.pdf): PD
+F inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/heg_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/heg_centroid_svg-tex.pdf): PD
+F inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/heg_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/heg_centroid_svg-tex.pdf): PD
+F inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/heg_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/heg_centroid_svg-tex.pdf): PD
+F inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/heg_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/heg_centroid_svg-tex.pdf): PD
+F inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/heg_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/heg_centroid_svg-tex.pdf): PD
+F inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/heg_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/heg_centroid_svg-tex.pdf): PD
+F inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/heg_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/heg_centroid_svg-tex.pdf): PD
+F inclusion: multiple pdfs with page group included in a single page
+>]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+[59 <./svg-inkscape/comb_centroid_svg-tex.pdf> <./svg-inkscape/comb_centroid_sv
+g-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/comb_centroid_svg-tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/comb_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/comb_centroid_svg-tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/comb_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/comb_centroid_svg-tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/comb_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/comb_centroid_svg-tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/comb_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/comb_centroid_svg-tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/comb_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/comb_centroid_svg-tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/comb_centroid_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/comb_centroid_svg-tex.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+>] [60]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Package svg Info: Last page of `./svg-inkscape/bakunin_pubs_svg-tex.pdf' is 1 o
+n input line 25.
+(svg-inkscape/bakunin_pubs_svg-tex.pdf_tex
+<./svg-inkscape/bakunin_pubs_svg-tex.pdf, id=1508, page=1, 794.97pt x 433.62pt>
+
+File: ./svg-inkscape/bakunin_pubs_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/bakunin_pubs_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/bakunin_pubs_svg-tex.pdf , page1 used o
+n input line 56.
+(pdftex.def)             Requested size: 469.75502pt x 256.23718pt.
+) [61] [62 <./svg-inkscape/bakunin_pubs_svg-tex.pdf>]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+Package svg Info: Last page of `./svg-inkscape/proudhon_pe_scores_svg-tex.pdf' 
+is 1 on input line 45.
+(svg-inkscape/proudhon_pe_scores_svg-tex.pdf_tex
+<./svg-inkscape/proudhon_pe_scores_svg-tex.pdf, id=1680, page=1, 794.97pt x 614
+.295pt>
+File: ./svg-inkscape/proudhon_pe_scores_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/proudhon_pe_scores_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/proudhon_pe_scores_svg-tex.pdf , page1 
+used on input line 56.
+(pdftex.def)             Requested size: 469.75502pt x 363.00267pt.
+) [63] [64 <./svg-inkscape/proudhon_pe_scores_svg-tex.pdf>]
+Package svg Info: Last page of `./svg-inkscape/lassalle_pubs_svg-tex.pdf' is 1 
+on input line 59.
+ (svg-inkscape/lassalle_pubs_svg-tex.pdf_tex
+<./svg-inkscape/lassalle_pubs_svg-tex.pdf, id=1758, page=1, 794.97pt x 433.62pt
+>
+File: ./svg-inkscape/lassalle_pubs_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/lassalle_pubs_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/lassalle_pubs_svg-tex.pdf , page1 used 
+on input line 56.
+(pdftex.def)             Requested size: 469.75502pt x 256.23718pt.
+)
+Package svg Info: Last page of `./svg-inkscape/lassalle_letters_svg-tex.pdf' is
+ 1 on input line 66.
+
+(svg-inkscape/lassalle_letters_svg-tex.pdf_tex
+<./svg-inkscape/lassalle_letters_svg-tex.pdf, id=1760, page=1, 794.97pt x 433.6
+2pt>
+File: ./svg-inkscape/lassalle_letters_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/lassalle_letters_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/lassalle_letters_svg-tex.pdf , page1 us
+ed on input line 56.
+(pdftex.def)             Requested size: 469.75502pt x 256.23718pt.
+)) (ch2//conclusion.tex [65 <./svg-inkscape/lassalle_pubs_svg-tex.pdf>] [66 <./
+svg-inkscape/lassalle_letters_svg-tex.pdf>]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+) [67] [68] (ch2/ch2_appendices.tex (ch2_appendices//app01_corpus.tex [69
+
+]
+[70] [71] [72] [73]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+[74]) (ch2_appendices//app02_subspace.tex)
+(ch2_appendices//app03_longformer.tex) (ch2_appendices//app04_marx_reading.tex
+Missing character: There is no ¹ in font lmsy10!
+[75] [76] [77]
+Overfull \hbox (7.14156pt too wide) in paragraph at lines 106--107
+\T1/lmr/m/n/12 sämtlich deutsch. --- Von Marx: 1 kleine Glosse über Grun-drente
+ als einzige Steuerquelle. 
+ []
+
+[78] [79] [80]) (ch2_appendices//app05_marx_writing.tex
+Overfull \hbox (105.03172pt too wide) in paragraph at lines 5--6
+[]\T1/lmr/m/n/12 The dataset of $\OML/lmm/m/it/12 N \OMS/lmsy/m/n/12  \OT1/lmr
+/m/n/12 1200$ \T1/lmr/m/n/12 writ-ings (ex-clud-ing let-ters) is avail-able at 
+[]https://airtable.com/shrFKP7fp64su32Ad[]. 
+ []
+
+
+Overfull \hbox (37.08614pt too wide) in paragraph at lines 20--21
+[]\T1/lmr/m/n/12 Translations: []DR.ST/ME10c[] (CWUS) 201 (``Abo-li-tion-ist de
+mon-stra-tions''); []DR.ST/M79[]
+ []
+
+[81] [82] [83] [84] [85] [86]
+Overfull \hbox (11.3011pt too wide) in paragraph at lines 363--364
+[]\T1/lmr/m/it/12 Institut für Marxismus-Leninismus \T1/lmr/m/n/12 (Re-fer-ring
+ ei-ther to the \T1/lmr/m/it/12 In-sti-tut Marksizma-Leninizma
+ []
+
+[87]) (ch2_appendices//app06_marx_letters.tex
+Overfull \hbox (139.61946pt too wide) in paragraph at lines 1--2
+[]\T1/lmr/m/n/12 A dataset of ev-ery known let-ter from or to Marx ($\OML/lmm/m
+/it/12 N \OMS/lmsy/m/n/12  \OT1/lmr/m/n/12 5000$\T1/lmr/m/n/12 ), avail-able a
+t []https://airtable.com/shrEbpkVoTMi8dvEa[]. 
+ []
+
+) (ch2_appendices//app07_marx_refs.tex
+Overfull \hbox (0.30788pt too wide) in paragraph at lines 26--27
+[]\T1/lmr/m/it/12 Die Fähigkeit der heuti-gen Ju-den und Chris-ten, frei zu wer
+-den\T1/lmr/m/n/12 . In: Ei-n-undzwanzig
+ []
+
+[88] [89]) (ch2_appendices//app08_marx_gloss.tex)
+(ch2_appendices//app09_proudhon_cw.tex
+Missing character: There is no ¹ in font lmsy10!
+[90]
+Overfull \hbox (3.10222pt too wide) in paragraph at lines 23--24
+[]\T1/lmr/m/it/12 La Révo-lu-tion so-ciale dé-mon-trée par le coup d'état du de
+ux décem-bre. Pro-jet d'exposition
+ []
+
+) (ch2_appendices//app10_proudhon_carnets.tex [91] [92] [93])
+(ch2_appendices//app11_lassalle_cw.tex [94]
+Overfull \hbox (49.21814pt too wide) in paragraph at lines 6--7
+[]\T1/lmr/bx/n/12 Vol. II. \T1/lmr/m/it/12 Die Ver-fas-sungsre-den. Das Ar-beit
+-er-pro-gramm und die an-schliessenden Verteildigungsre-
+ []
+
+[95]) (ch2_appendices//app12_lassalle_bib.tex
+Overfull \hbox (30.908pt too wide) in paragraph at lines 6--7
+[]\T1/lmr/bx/n/12 A1.1\T1/lmr/m/n/12 : \T1/lmr/m/it/12 REISEBESCHREI-BUNG VON M
+EINEM LIEBLINGSWINKEL BIS ZUR STUBEN-
+ []
+
+[96]
+Overfull \hbox (18.34578pt too wide) in paragraph at lines 45--46
+[]\T1/lmr/bx/n/12 A4.1\T1/lmr/m/n/12 : \T1/lmr/m/it/12 ZUR ERK-LÄRUNG DES HERRN
+ DR. DAVID-SON IN NO. 222 DER LEIPZIGER
+ []
+
+[97]
+Overfull \hbox (10.5649pt too wide) in paragraph at lines 100--101
+\T1/lmr/m/n/12 Eben-falls als Manuskript-briefe anzuse-hen sind die Texte []DR.
+L.A24a[] und []DR.L.A25b[]
+ []
+
+
+Overfull \hbox (62.96918pt too wide) in paragraph at lines 119--120
+\T1/lmr/m/it/12 STAATS-GERICHTS-HOFE ZU BERLIN, AM 12. MÄRZ 1864. NACH DEM STEN
+OGRAPHIS-
+ []
+
+[98]
+Overfull \hbox (2.8454pt too wide) in paragraph at lines 139--140
+\T1/lmr/m/n/12 Gus-tav Lewy gerichtet und ord-net die monatliche Auszahlung des
+ Sekretär-Gehalts
+ []
+
+[99]
+Overfull \hbox (0.9737pt too wide) in paragraph at lines 156--157
+[]\T1/lmr/m/it/12 DIE AG-I-TA-TION DES ALLG. DEUTSCHEN AR-BEIT-ER-VERE-INS UND 
+DAS VER-
+ []
+
+
+Overfull \hbox (34.6419pt too wide) in paragraph at lines 156--157
+\T1/lmr/m/it/12 SPRECHEN DES KÖNIGS VON PREUSSEN. EINE REDE GEHAL-TEN AM STIFTU
+NGS-
+ []
+
+[100]
+Overfull \hbox (6.70164pt too wide) in paragraph at lines 190--191
+\T1/lmr/m/n/12 Beilage (oder bestellte 50 Son-der-abzüge des Textes), um sie an
+ die Bevollmächtigten
+ []
+
+[101] [102] [103]) (ch2_appendices//app13_nietzsche.tex [104] [105]
+Overfull \hbox (6.88939pt too wide) in paragraph at lines 39--40
+[]\T1/lmr/m/n/12 Eugen Dühring, \T1/lmr/m/it/12 Kri-tis-che Geschichte der Na-t
+ion-alökonomie und des Sozial-is-mus \T1/lmr/m/n/12 (Berlin,
+ []
+
+[106]) (ch2_appendices//app14_table_footnotes.tex))) (chapter3.tex [107]
+Chapter 3.
+[108
+
+] [109]) [110] (ch2//Conclusion.tex [111
+
+]
+Missing character: There is no ¹ in font lmsy10!
+Missing character: There is no ¹ in font lmsy10!
+) [112]
+
+Package biblatex Warning: Split bibliography detected.
+(biblatex)                Many simple split bibliography setups with
+(biblatex)                non-overlapping bibliographies benefit from
+(biblatex)                setting 'defernumbers=true'.
+(biblatex)                See the documentation for details.
+(biblatex)                This warning can be suppressed with
+(biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
+
+[113
+
+
+]
+Overfull \hbox (0.33768pt too wide) in paragraph at lines 151--151
+[]\T1/lmr/m/n/12 B. An-dréas, \T1/lmr/m/it/12 Karl Marx, Friedrich En-gels : da
+s Ende der klas-sis-chen deutschen Philoso-
+ []
+
+[114] [115]
+Overfull \hbox (5.77216pt too wide) in paragraph at lines 151--151
+\T1/lmr/m/n/12 pro-cess-ing and in-for-ma-tion ex-trac-tion for le-gal and reg-
+u-la-tory texts,'' \T1/lmr/m/it/12 arXiv:1806.03688
+ []
+
+[116] [117] [118] [119] [120] [121]
+Overfull \hbox (20.6296pt too wide) in paragraph at lines 151--151
+[]\T1/lmr/m/n/12 M. Evans, ``Karl marx's first con-fronta-tion with po-lit-i-ca
+l econ-omy: The 1844 manuscripts,''
+ []
+
+[122]
+Overfull \hbox (3.38986pt too wide) in paragraph at lines 151--151
+[]\T1/lmr/m/n/12 H. Gin-tis, \T1/lmr/m/it/12 Game The-ory Evolv-ing: A Problem-
+centered In-tro-duc-tion to Mod-el-ing Strate-
+ []
+
+[123] [124] [125] [126] [127] [128] [129] [130] [131] [132] [133] [134]
+Overfull \hbox (12.41136pt too wide) in paragraph at lines 151--151
+[]\T1/lmr/m/n/12 J. Ro-jahn, ``Marx-is-mus  marx  geschichtswis-senschaft: De
+r fall der sog. ökonomisch-
+ []
+
+[135] [136]
+Overfull \hbox (1.04456pt too wide) in paragraph at lines 151--151
+[]\T1/lmr/m/n/12 G. Shapiro and J. Markoff, \T1/lmr/m/it/12 Rev-o-lu-tion-ary D
+e-mands: A Con-tent Anal-y-sis of the Cahiers
+ []
+
+[137]
+Overfull \hbox (6.57414pt too wide) in paragraph at lines 151--151
+\T1/lmr/m/n/12 bridge his-tory of nineteenth-century po-lit-i-cal thought.'' (2
+011), (vis-ited on 04/27/2021). 
+ []
+
+[138] [139] [140] [141] (thesis.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.5pt have occurred.
+
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 65005B0AE240DFBA8B9736EFFA93F42D;12986.
+Package logreq Info: Writing requests to 'thesis.run.xml'.
+\openout1 = `thesis.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 40243 strings out of 478584
+ 843641 string characters out of 2844401
+ 1842417 words of memory out of 3000000
+ 56525 multiletter control sequences out of 15000+600000
+ 589686 words of font info for 154 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,16n,95p,4414b,1658s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/jpjac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{
+C:/Users/jpjac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/U
+sers/jpjac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/U
+sers/jpjac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users
+/jpjac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Users
+/jpjac/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users
+/jpjac/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users
+/jpjac/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/User
+s/jpjac/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Use
+rs/jpjac/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Use
+rs/jpjac/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Use
+rs/jpjac/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/User
+s/jpjac/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Users
+/jpjac/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi9.pfb><C:/Users/
+jpjac/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/j
+pjac/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/jp
+jac/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/jpja
+c/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/jpjac/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/jpjac/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/jpjac/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/jpjac/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/jpjac/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Users/jpjac/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/jpjac/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb><C:/Users/jpjac/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb><C:/Users/jpjac/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/jpjac
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/esvect/vect10.pfb>
+Output written on thesis.pdf (152 pages, 8322908 bytes).
+PDF statistics:
+ 3397 PDF objects out of 3580 (max. 8388607)
+ 994 named destinations out of 1000 (max. 500000)
+ 795 words of extra memory for PDF output out of 10000 (max. 10000000)
+

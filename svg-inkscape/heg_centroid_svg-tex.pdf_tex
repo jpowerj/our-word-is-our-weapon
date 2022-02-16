@@ -1,0 +1,166 @@
+%% Creator: Inkscape 1.1.2 (0a00cf5339, 2022-02-04, custom), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'heg_centroid_svg-tex.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{582.75bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.46203346)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{heg_centroid_svg-tex.pdf}}%
+    \put(0.11108838,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-1.0\end{tabular}}}}%
+    \put(0.14800023,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-0.9\end{tabular}}}}%
+    \put(0.18491208,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-0.8\end{tabular}}}}%
+    \put(0.22182393,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-0.7\end{tabular}}}}%
+    \put(0.25873578,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-0.6\end{tabular}}}}%
+    \put(0.29564763,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-0.5\end{tabular}}}}%
+    \put(0.33255948,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-0.4\end{tabular}}}}%
+    \put(0.36947132,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-0.3\end{tabular}}}}%
+    \put(0.40638317,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-0.2\end{tabular}}}}%
+    \put(0.44329502,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-0.1\end{tabular}}}}%
+    \put(0.48020687,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.0\end{tabular}}}}%
+    \put(0.51711872,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.1\end{tabular}}}}%
+    \put(0.55403057,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.2\end{tabular}}}}%
+    \put(0.59094242,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.3\end{tabular}}}}%
+    \put(0.62785426,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.4\end{tabular}}}}%
+    \put(0.66476611,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.5\end{tabular}}}}%
+    \put(0.70167796,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.6\end{tabular}}}}%
+    \put(0.73858981,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.7\end{tabular}}}}%
+    \put(0.77550166,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.8\end{tabular}}}}%
+    \put(0.81241351,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0.9\end{tabular}}}}%
+    \put(0.84932536,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1.0\end{tabular}}}}%
+    \put(0.8862372,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1.1\end{tabular}}}}%
+    \put(0.07417654,0.02767053){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}-1.1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{heg_centroid_svg-tex.pdf}}%
+    \put(0.48069498,0.00836551){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{First Principal Component}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{heg_centroid_svg-tex.pdf}}%
+    \put(0.05341055,0.08210785){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}-0.6\end{tabular}}}}%
+    \put(0.05341055,0.13565031){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}-0.4\end{tabular}}}}%
+    \put(0.05341055,0.18919277){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}-0.2\end{tabular}}}}%
+    \put(0.05341055,0.24273523){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0.0\end{tabular}}}}%
+    \put(0.05341055,0.2962777){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0.2\end{tabular}}}}%
+    \put(0.05341055,0.34982016){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0.4\end{tabular}}}}%
+    \put(0.05341055,0.40336262){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0.6\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{heg_centroid_svg-tex.pdf}}%
+    \put(0.01866152,0.24002574){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Second Principal Component}\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{heg_centroid_svg-tex.pdf}}%
+    \put(0.38843088,0.41541436){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}self\end{tabular}}}}%
+    \put(0.16725788,0.09289112){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}god\end{tabular}}}}%
+    \put(0.3961672,0.10417241){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}spirit\end{tabular}}}}%
+    \put(0.49023498,0.06666724){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}being\end{tabular}}}}%
+    \put(0.27653455,0.11341662){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}christ\end{tabular}}}}%
+    \put(0.09016346,0.25795405){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}jesus\end{tabular}}}}%
+    \put(0.58989273,0.09813148){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}awareness\end{tabular}}}}%
+    \put(0.47880939,0.28439449){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}free\end{tabular}}}}%
+    \put(0.2841084,0.27544747){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}to believe\end{tabular}}}}%
+    \put(0.50936949,0.3371393){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}directly\end{tabular}}}}%
+    \put(0.45401816,0.17594722){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}truth\end{tabular}}}}%
+    \put(0.43033245,0.14635918){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}religion\end{tabular}}}}%
+    \put(0.14661666,0.18641051){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}dear\end{tabular}}}}%
+    \put(0.57286969,0.19269725){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}concept\end{tabular}}}}%
+    \put(0.32054126,0.29510012){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}to think\end{tabular}}}}%
+    \put(0.35762296,0.1536501){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}world\end{tabular}}}}%
+    \put(0.35851328,0.37060035){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}right\end{tabular}}}}%
+    \put(0.32749088,0.33967863){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}to know\end{tabular}}}}%
+    \put(0.68118795,0.17575258){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}reality\end{tabular}}}}%
+    \put(0.35810358,0.11198815){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}man\end{tabular}}}}%
+    \put(0.78966158,0.23521892){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}subjective\end{tabular}}}}%
+    \put(0.70706331,0.2913758){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}absolute\end{tabular}}}}%
+    \put(0.57074055,0.2978294){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}simultaneously\end{tabular}}}}%
+    \put(0.75652087,0.15936474){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}unity\end{tabular}}}}%
+    \put(0.6662304,0.23933978){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}content\end{tabular}}}}%
+    \put(0.30525002,0.24407886){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}life\end{tabular}}}}%
+    \put(0.3378138,0.40868977){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}to do\end{tabular}}}}%
+    \put(0.14207833,0.21903058){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}holy\end{tabular}}}}%
+    \put(0.47880215,0.1289862){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}true\end{tabular}}}}%
+    \put(0.4285247,0.36541862){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}to change\end{tabular}}}}%
+    \put(0.86474179,0.16335481){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}abstract\end{tabular}}}}%
+    \put(0.73823509,0.38448205){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}form\end{tabular}}}}%
+    \put(0.38843088,0.40511835){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{selbst}\end{tabular}}}}%
+    \put(0.16725788,0.08259511){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{gott}\end{tabular}}}}%
+    \put(0.3961672,0.0938764){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{geist}\end{tabular}}}}%
+    \put(0.49023498,0.05637123){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{wesen}\end{tabular}}}}%
+    \put(0.27653455,0.10312061){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{christ}\end{tabular}}}}%
+    \put(0.09016346,0.24765804){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{jesus}\end{tabular}}}}%
+    \put(0.58989273,0.08783547){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{bewusstsein}\end{tabular}}}}%
+    \put(0.47880939,0.27409848){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{frei}\end{tabular}}}}%
+    \put(0.2841084,0.26515146){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{glauben}\end{tabular}}}}%
+    \put(0.50936949,0.32684329){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{unmittelbar}\end{tabular}}}}%
+    \put(0.45401816,0.16565121){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{wahrheit}\end{tabular}}}}%
+    \put(0.43033245,0.13606317){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{religion}\end{tabular}}}}%
+    \put(0.14661666,0.1761145){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{lieb}\end{tabular}}}}%
+    \put(0.57286969,0.18240124){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{begriff}\end{tabular}}}}%
+    \put(0.32054126,0.28480411){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{denken}\end{tabular}}}}%
+    \put(0.35762296,0.14335409){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{welt}\end{tabular}}}}%
+    \put(0.35851328,0.36030434){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{recht}\end{tabular}}}}%
+    \put(0.32749088,0.32938261){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{wissen}\end{tabular}}}}%
+    \put(0.68118795,0.16545657){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{wirklichkeit}\end{tabular}}}}%
+    \put(0.35810358,0.10169214){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{mensch}\end{tabular}}}}%
+    \put(0.78966158,0.22492291){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{subjektiv}\end{tabular}}}}%
+    \put(0.70706331,0.28107979){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{absolut}\end{tabular}}}}%
+    \put(0.57074055,0.28753339){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{zugleich}\end{tabular}}}}%
+    \put(0.75652087,0.14906873){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{einheit}\end{tabular}}}}%
+    \put(0.6662304,0.22904377){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{inhalt}\end{tabular}}}}%
+    \put(0.30525002,0.23378285){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{leben}\end{tabular}}}}%
+    \put(0.3378138,0.39839376){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{machen}\end{tabular}}}}%
+    \put(0.14207833,0.20873457){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{heilig}\end{tabular}}}}%
+    \put(0.47880215,0.11869019){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{wahr}\end{tabular}}}}%
+    \put(0.4285247,0.35512261){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{andern}\end{tabular}}}}%
+    \put(0.86474179,0.1530588){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{abstrakt}\end{tabular}}}}%
+    \put(0.73823509,0.37418604){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textit{form}\end{tabular}}}}%
+    \put(0.44095333,0.23951773){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Hegelian*\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{heg_centroid_svg-tex.pdf}}%
+    \put(0.94208494,0.4015444){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Word\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{heg_centroid_svg-tex.pdf}}%
+    \put(0.94208494,0.38481338){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Centroid\end{tabular}}}}%
+    \put(0.92149292,0.42213642){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Type}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{heg_centroid_svg-tex.pdf}}%
+    \put(0.48005148,0.44272844){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{PCA Plot of Hegelian Centroid}\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

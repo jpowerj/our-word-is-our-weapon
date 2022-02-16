@@ -1,0 +1,83 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: biblatex.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'field_info' (item size: 4) to 16340 items.
+Database file #1: thesis-blx.bib
+Database file #2: references.bib
+Reallocating 'str_pool' (item size: 1) to 130000 items.
+Reallocating 'field_info' (item size: 4) to 21380 items.
+Reallocating 'field_info' (item size: 4) to 26420 items.
+Reallocating 'str_pool' (item size: 1) to 195000 items.
+Reallocating 'field_info' (item size: 4) to 31460 items.
+Reallocating 'field_info' (item size: 4) to 36500 items.
+Reallocating 'str_pool' (item size: 1) to 260000 items.
+Reallocating 'field_info' (item size: 4) to 41540 items.
+Reallocating 'field_info' (item size: 4) to 46580 items.
+Reallocating 'str_pool' (item size: 1) to 325000 items.
+Reallocating 'field_info' (item size: 4) to 51620 items.
+Reallocating 'field_info' (item size: 4) to 56660 items.
+Reallocating 'str_pool' (item size: 1) to 390000 items.
+Reallocating 'field_info' (item size: 4) to 61700 items.
+Biblatex version: 3.17
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+You've used 425 entries,
+            6399 wiz_defined-function locations,
+            4693 strings with 355979 characters,
+and the built_in function-call counts, 4074541 in all, are:
+= -- 220515
+> -- 300843
+< -- 28044
++ -- 300153
+- -- 243220
+* -- 207828
+:= -- 524316
+add.period$ -- 0
+call.type$ -- 425
+change.case$ -- 11272
+chr.to.int$ -- 17514
+cite$ -- 848
+duplicate$ -- 346876
+empty$ -- 286439
+format.name$ -- 24549
+if$ -- 656973
+int.to.chr$ -- 0
+int.to.str$ -- 1540
+missing$ -- 0
+newline$ -- 15074
+num.names$ -- 26366
+pop$ -- 143456
+preamble$ -- 1
+purify$ -- 12597
+quote$ -- 0
+skip$ -- 111208
+stack$ -- 0
+substring$ -- 409223
+swap$ -- 92004
+text.length$ -- 18631
+text.prefix$ -- 424
+top$ -- 1
+type$ -- 14426
+warning$ -- 0
+while$ -- 45125
+width$ -- 0
+write$ -- 14650

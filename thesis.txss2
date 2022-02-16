@@ -1,0 +1,31 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": true,
+        "File": "thesis.pdf"
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "thesis.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "thesis.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 68,
+                "EditorGroup": 0,
+                "FileName": "chapter2.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 9
+            }
+        ],
+        "MasterFile": ""
+    }
+}
